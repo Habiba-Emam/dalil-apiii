@@ -1,0 +1,301 @@
+professor_id,name,department,title,office_hours,email
+P0001,Maria Saunders,Computer Science,Lecturer,Tue 15:00,wendymack@ayers.com
+P0002,Megan Avery,Engineering,Associate Professor,Mon 12:00,thomasbryan@acosta.com
+P0003,Gina Wilkerson,Business,Assistant Professor,Mon 13:00,melissa54@moore.org
+P0004,Christopher Becker,Business,Assistant Professor,Tue 14:00,chenry@yahoo.com
+P0005,Sean Rasmussen,Medicine,Lecturer,Thu 13:00,obishop@hotmail.com
+P0006,Katrina Gonzalez,Engineering,Assistant Professor,Tue 16:00,cruzrebecca@holland-rivera.com
+P0007,Tina Johnson,Business,Lecturer,Wed 10:00,ejohnson@washington-price.net
+P0008,Kristy Rivera,Arts,Professor,Thu 12:00,scott57@mckee-gomez.org
+P0009,Mikayla Brown,Engineering,Professor,Wed 13:00,steven50@ortiz.com
+P0010,Cameron Patterson,Arts,Assistant Professor,Mon 12:00,robertsantiago@yahoo.com
+P0011,Sarah Hester,Medicine,Assistant Professor,Mon 14:00,stephen53@hotmail.com
+P0012,Kari Rivera,Law,Assistant Professor,Tue 15:00,lopezjustin@yahoo.com
+P0013,Michelle Nguyen,Law,Lecturer,Wed 14:00,harperkimberly@johnson-castaneda.org
+P0014,Chelsea Thomas,Science,Associate Professor,Mon 16:00,nelsonchristopher@irwin-odonnell.info
+P0015,Kelly Mendoza,Medicine,Professor,Thu 13:00,benjaminthompson@wheeler-cobb.net
+P0016,David Ramos PhD,Arts,Professor,Wed 11:00,yolanda59@yahoo.com
+P0017,Rebecca Villanueva,Medicine,Lecturer,Tue 11:00,phelpsheather@yahoo.com
+P0018,Beth Haas,Law,Professor,Tue 9:00,yflores@hotmail.com
+P0019,John Navarro,Business,Associate Professor,Thu 16:00,jonestheresa@morris.biz
+P0020,Patricia Russell,Medicine,Assistant Professor,Thu 16:00,bowerstara@adams.com
+P0021,Christopher Wheeler,Arts,Assistant Professor,Wed 16:00,blairmatthew@hotmail.com
+P0022,Zachary Castro,Business,Assistant Professor,Tue 15:00,millercynthia@nelson-barrett.biz
+P0023,Jennifer Browning,Science,Assistant Professor,Mon 15:00,beasleymaria@gmail.com
+P0024,Karen Wong,Arts,Professor,Tue 11:00,jacobmurillo@robles-thomas.com
+P0025,Lisa Mendoza,Law,Assistant Professor,Mon 9:00,wooddonald@yahoo.com
+P0026,William Silva,Science,Assistant Professor,Wed 13:00,stephanie53@rhodes.com
+P0027,Bianca Peters,Medicine,Associate Professor,Thu 9:00,bruce95@whitaker.com
+P0028,Taylor Reid,Law,Assistant Professor,Mon 15:00,kimberlylopez@gmail.com
+P0029,Kimberly Martinez,Business,Lecturer,Tue 16:00,wileymadeline@hinton.com
+P0030,Matthew Craig,Engineering,Associate Professor,Wed 14:00,wturner@yahoo.com
+P0031,Shelly Nelson,Arts,Assistant Professor,Thu 11:00,taylorchristopher@nicholson-carter.biz
+P0032,Adam Riley,Arts,Professor,Wed 11:00,pattondevin@gmail.com
+P0033,Jennifer Collins,Engineering,Lecturer,Tue 12:00,bruceallen@yahoo.com
+P0034,Gabriella Miller,Medicine,Professor,Mon 11:00,robert99@hotmail.com
+P0035,Heidi Hill,Law,Lecturer,Wed 16:00,fstewart@hotmail.com
+P0036,Carly Fitzgerald,Law,Associate Professor,Mon 11:00,jwallace@hanson.org
+P0037,David Atkins,Arts,Professor,Tue 16:00,donna25@gmail.com
+P0038,William Taylor,Engineering,Associate Professor,Thu 14:00,robertwilson@dennis-ramirez.org
+P0039,Peter Graham,Medicine,Professor,Wed 10:00,calvincooper@yahoo.com
+P0040,Pamela Kaiser,Medicine,Professor,Mon 10:00,traviswilson@young.com
+P0041,Theresa Jordan,Computer Science,Professor,Thu 14:00,uramirez@hicks-rivera.com
+P0042,Michelle Burns,Arts,Professor,Thu 15:00,christophererickson@gmail.com
+P0043,Casey Taylor,Arts,Assistant Professor,Tue 14:00,jonathansmith@sanchez-gonzalez.biz
+P0044,Melissa Martin,Business,Assistant Professor,Tue 11:00,grahamadam@hotmail.com
+P0045,Paula Diaz,Computer Science,Professor,Thu 14:00,michael72@yahoo.com
+P0046,David Wilson,Computer Science,Associate Professor,Mon 9:00,sarah28@turner.net
+P0047,Jessica Rogers,Medicine,Professor,Thu 9:00,vlopez@holland.net
+P0048,Clayton Kelly,Law,Associate Professor,Mon 16:00,gortiz@hotmail.com
+P0049,Sylvia Pope,Engineering,Associate Professor,Thu 11:00,zrichardson@gmail.com
+P0050,Mariah Mckenzie,Business,Professor,Tue 9:00,matthewharris@reed-white.org
+P0051,David Webb,Medicine,Associate Professor,Mon 12:00,umccoy@hotmail.com
+P0052,Lisa Jackson,Arts,Associate Professor,Tue 12:00,pagerandall@wise.com
+P0053,Christina Lowery,Science,Lecturer,Thu 10:00,andrewgonzalez@phillips.com
+P0054,Jeremy Schmidt,Science,Assistant Professor,Tue 15:00,howens@hotmail.com
+P0055,Alexis Larson,Arts,Assistant Professor,Thu 15:00,keith54@chavez.com
+P0056,Timothy Wallace,Engineering,Professor,Mon 12:00,farrellmary@wright-conner.com
+P0057,Lori Olson,Medicine,Lecturer,Thu 15:00,davissharon@gmail.com
+P0058,Amy Hines,Arts,Assistant Professor,Mon 16:00,jessica94@roberts.biz
+P0059,Joseph Forbes,Arts,Lecturer,Tue 10:00,jamie95@gmail.com
+P0060,Benjamin Schultz,Business,Assistant Professor,Tue 12:00,jennifer01@lozano.com
+P0061,Jasmine Morris,Law,Associate Professor,Thu 11:00,morrisdonna@johnson.org
+P0062,Jason Barrera,Science,Lecturer,Wed 15:00,allisonlevy@morris-gordon.biz
+P0063,Jason Richardson,Arts,Assistant Professor,Mon 10:00,wwagner@yahoo.com
+P0064,Omar Sanchez,Engineering,Assistant Professor,Mon 13:00,angelamejia@miller-bowers.com
+P0065,Alexis Taylor,Medicine,Lecturer,Tue 9:00,pcollins@merritt.com
+P0066,Roger Jones,Medicine,Assistant Professor,Thu 14:00,staceybennett@sexton.com
+P0067,Erik Hunter,Business,Associate Professor,Wed 16:00,nealalyssa@gmail.com
+P0068,Janet Kennedy,Law,Assistant Professor,Thu 14:00,twest@yahoo.com
+P0069,Noah Mendoza,Medicine,Assistant Professor,Tue 16:00,vboyd@roberts.com
+P0070,Debra Johnson,Computer Science,Professor,Tue 14:00,plewis@yahoo.com
+P0071,Noah Williams,Arts,Assistant Professor,Wed 15:00,djohnson@yahoo.com
+P0072,Andrew Bennett,Science,Lecturer,Mon 16:00,anne33@rodriguez.com
+P0073,Brett Rose,Arts,Professor,Wed 13:00,jasonhammond@gmail.com
+P0074,Michelle Kim,Law,Associate Professor,Wed 14:00,gsmith@yahoo.com
+P0075,Erin Simon,Arts,Professor,Tue 13:00,sharon48@hotmail.com
+P0076,Kathryn Long,Computer Science,Professor,Wed 11:00,ehouston@yahoo.com
+P0077,Brittany Foster,Computer Science,Associate Professor,Tue 10:00,vbarrera@richardson-harvey.com
+P0078,Cory Collins,Business,Associate Professor,Mon 16:00,tturner@gmail.com
+P0079,Jacob Fisher,Medicine,Professor,Mon 15:00,rebeccajohnson@wise-lopez.com
+P0080,Heather Miller,Business,Professor,Wed 14:00,stephenwoods@hotmail.com
+P0081,Joseph Nichols,Business,Assistant Professor,Tue 16:00,yolandafreeman@yahoo.com
+P0082,Mallory Norton,Science,Assistant Professor,Mon 16:00,jonesarthur@caldwell-olson.com
+P0083,Carolyn Hall,Engineering,Assistant Professor,Thu 11:00,katherineramirez@yahoo.com
+P0084,Christopher Bryant,Medicine,Assistant Professor,Mon 15:00,werickson@hotmail.com
+P0085,William Small,Business,Lecturer,Tue 9:00,jeffersonshane@hotmail.com
+P0086,Annette Baker,Arts,Assistant Professor,Tue 16:00,georgemonroe@yahoo.com
+P0087,Traci Wise,Science,Lecturer,Tue 12:00,melissa33@morales.net
+P0088,Travis Clark,Arts,Associate Professor,Tue 15:00,garrettholly@hotmail.com
+P0089,Miguel Hughes DDS,Computer Science,Lecturer,Tue 10:00,george17@gmail.com
+P0090,Richard Myers,Medicine,Professor,Wed 12:00,marcusyates@martin.com
+P0091,Charles Kim,Arts,Lecturer,Mon 15:00,victoriawang@hotmail.com
+P0092,Julia Stewart,Engineering,Lecturer,Tue 10:00,tfrank@patrick-mcguire.com
+P0093,Brandon Jordan,Computer Science,Assistant Professor,Thu 12:00,colemandaniel@bishop.net
+P0094,Betty Hernandez,Business,Lecturer,Mon 16:00,jason61@yahoo.com
+P0095,Ronald Garcia,Business,Lecturer,Thu 12:00,nicolesanchez@johnson.info
+P0096,Jeremy Walker,Engineering,Lecturer,Wed 12:00,darlenedickson@gmail.com
+P0097,Jonathan Lewis,Arts,Associate Professor,Wed 13:00,garymartinez@hernandez.org
+P0098,Sandra Webb,Arts,Assistant Professor,Tue 10:00,jamie15@pope.com
+P0099,Brittany Garrett,Arts,Professor,Tue 14:00,jeanette10@gmail.com
+P0100,Charles Alvarez,Business,Professor,Wed 14:00,stacycook@hotmail.com
+P0101,Benjamin Martin,Business,Assistant Professor,Thu 11:00,abean@grant-hudson.biz
+P0102,Rachel Paul,Science,Professor,Mon 16:00,sethwillis@whitaker-myers.net
+P0103,Karen Webster,Arts,Lecturer,Thu 10:00,ashley64@gutierrez.com
+P0104,Brittney Gaines,Engineering,Lecturer,Thu 14:00,ywilliams@allen.com
+P0105,Anthony Hernandez,Computer Science,Assistant Professor,Thu 10:00,mreid@morris-conner.biz
+P0106,Christopher Richards,Business,Professor,Thu 11:00,stanleymark@yahoo.com
+P0107,Patricia Johnson,Engineering,Professor,Wed 9:00,crystal26@hotmail.com
+P0108,Rickey Cummings,Business,Associate Professor,Tue 11:00,richard02@dodson.com
+P0109,James Briggs,Business,Assistant Professor,Tue 14:00,shannon40@yahoo.com
+P0110,Susan Christian,Arts,Assistant Professor,Tue 11:00,granttony@espinoza-sharp.com
+P0111,Brittney Hall,Law,Associate Professor,Tue 15:00,angelapacheco@davies.org
+P0112,Jacob Li,Computer Science,Associate Professor,Thu 13:00,charris@brown-brown.com
+P0113,Danny Jones,Engineering,Associate Professor,Wed 10:00,murphychristopher@charles-tran.com
+P0114,Matthew Stevens,Medicine,Professor,Mon 14:00,ann22@hicks.com
+P0115,Timothy Hamilton,Medicine,Associate Professor,Thu 10:00,jordanbrian@robles.com
+P0116,Michael Morales,Medicine,Lecturer,Wed 10:00,nicholaskennedy@nash.com
+P0117,Alexis Livingston,Medicine,Assistant Professor,Wed 13:00,ypowell@hotmail.com
+P0118,Emily Kemp,Law,Assistant Professor,Thu 16:00,bradleymary@hotmail.com
+P0119,Sarah Hanna,Arts,Professor,Tue 16:00,michelle15@gmail.com
+P0120,Crystal Hill,Business,Lecturer,Mon 14:00,brownmelissa@yahoo.com
+P0121,Marcus Berger,Law,Assistant Professor,Tue 10:00,jason67@gmail.com
+P0122,Alexandra Cole,Engineering,Assistant Professor,Tue 15:00,qharris@hotmail.com
+P0123,Michael Roberts,Science,Lecturer,Wed 14:00,turnerrobert@nelson.com
+P0124,Jose Bell,Computer Science,Assistant Professor,Mon 11:00,joseph36@young-reed.net
+P0125,Michelle Copeland,Arts,Assistant Professor,Thu 10:00,nicole00@mitchell.biz
+P0126,Ms. Margaret Padilla,Medicine,Associate Professor,Wed 13:00,fbrooks@yahoo.com
+P0127,Brandon Bell,Business,Professor,Mon 16:00,schmidtmargaret@tate-stephens.com
+P0128,Gerald Martin,Arts,Lecturer,Wed 12:00,taylormatthew@butler-sutton.com
+P0129,Scott Hernandez,Business,Assistant Professor,Wed 11:00,lesliehoffman@yahoo.com
+P0130,Phyllis Lee,Arts,Lecturer,Mon 14:00,dominguezdanielle@gmail.com
+P0131,Alexis Fisher,Science,Associate Professor,Mon 11:00,iolson@hotmail.com
+P0132,Audrey Bradshaw,Business,Professor,Tue 12:00,marytorres@hotmail.com
+P0133,Ashlee Singleton,Law,Professor,Wed 16:00,thomasballard@hotmail.com
+P0134,Katrina Perez,Arts,Associate Professor,Wed 15:00,cherylsalazar@yahoo.com
+P0135,Lauren Riley,Engineering,Associate Professor,Thu 13:00,valentinetamara@daniels-holmes.info
+P0136,Stacey Freeman,Arts,Professor,Wed 14:00,abates@navarro-blevins.net
+P0137,Miss Jacqueline Nguyen,Computer Science,Assistant Professor,Thu 10:00,theresa08@martin-romero.net
+P0138,Mark Johnson,Engineering,Professor,Mon 11:00,derrick88@suarez.com
+P0139,Kevin Daniel,Arts,Assistant Professor,Wed 14:00,hendricksisaiah@hotmail.com
+P0140,Christopher Lopez,Engineering,Associate Professor,Mon 10:00,sherry99@hotmail.com
+P0141,Diana Lewis,Law,Assistant Professor,Tue 16:00,robertsonemily@hotmail.com
+P0142,Donna Barajas,Business,Associate Professor,Thu 11:00,garciazachary@crawford-walker.com
+P0143,Sandra Burns,Computer Science,Associate Professor,Thu 12:00,victor08@yahoo.com
+P0144,Jacob Douglas PhD,Law,Associate Professor,Wed 13:00,lloydjason@hotmail.com
+P0145,Christopher Escobar,Medicine,Professor,Tue 12:00,vgarrett@hotmail.com
+P0146,Kimberly Velez,Computer Science,Assistant Professor,Mon 15:00,bennettmarc@hotmail.com
+P0147,Amber Jones,Law,Assistant Professor,Thu 14:00,lorimadden@gmail.com
+P0148,Jason Montgomery PhD,Business,Assistant Professor,Tue 15:00,landerson@white-marshall.org
+P0149,Jennifer Brown,Arts,Professor,Thu 11:00,gabriellecastillo@golden-austin.com
+P0150,Sarah Hernandez,Computer Science,Lecturer,Mon 10:00,carol63@hotmail.com
+P0151,Lance Ortiz,Law,Associate Professor,Mon 11:00,scott14@hotmail.com
+P0152,Cody James,Computer Science,Lecturer,Thu 16:00,dmorgan@yahoo.com
+P0153,Angela Moore,Business,Lecturer,Wed 13:00,stephanie58@chavez-boyd.org
+P0154,Mark Hunter MD,Medicine,Professor,Tue 10:00,porterwendy@cruz.org
+P0155,Steve Palmer,Science,Lecturer,Mon 11:00,micheleyoung@reyes.com
+P0156,Derek Vazquez,Business,Professor,Mon 15:00,debbie19@burton-harrison.com
+P0157,Paula Shepherd,Medicine,Associate Professor,Wed 10:00,elizabethpace@yahoo.com
+P0158,John Garza,Law,Lecturer,Thu 15:00,qaguilar@hotmail.com
+P0159,Nicole Scott,Business,Professor,Tue 9:00,ian72@yahoo.com
+P0160,Evan Berry,Arts,Lecturer,Wed 15:00,conradjanet@yahoo.com
+P0161,Donna Irwin,Law,Associate Professor,Thu 11:00,julie52@yahoo.com
+P0162,Stephanie Bell,Medicine,Professor,Tue 10:00,crystal30@gmail.com
+P0163,Katherine Greene,Arts,Associate Professor,Wed 13:00,gilesdonna@patton.net
+P0164,David Williams,Engineering,Assistant Professor,Mon 9:00,keithalvarado@gmail.com
+P0165,Elizabeth Soto,Computer Science,Professor,Mon 9:00,david73@yahoo.com
+P0166,George Walker,Arts,Professor,Tue 12:00,paul91@hotmail.com
+P0167,Gail Small,Arts,Associate Professor,Mon 9:00,patriciarojas@hotmail.com
+P0168,Joseph Callahan,Engineering,Lecturer,Mon 15:00,doylehannah@wilson.com
+P0169,Vanessa Thompson,Arts,Professor,Tue 12:00,twilliams@yahoo.com
+P0170,Michael Wallace,Law,Professor,Tue 10:00,jasmine11@hotmail.com
+P0171,Michelle Wu,Arts,Associate Professor,Thu 13:00,yangmichael@mann.com
+P0172,Mallory Rivera,Engineering,Associate Professor,Wed 14:00,johnsonsusan@hotmail.com
+P0173,Mark Wood,Engineering,Associate Professor,Wed 16:00,theresa43@campbell-singh.com
+P0174,Christina Smith,Science,Assistant Professor,Tue 9:00,stephen52@peterson.com
+P0175,Lisa Jones,Medicine,Associate Professor,Thu 11:00,heathercooper@miller.biz
+P0176,Bill Peters,Science,Assistant Professor,Wed 15:00,ericksonmonique@atkinson.com
+P0177,Jo Randolph,Arts,Assistant Professor,Tue 12:00,kathryncole@hotmail.com
+P0178,Brittney Chambers,Engineering,Lecturer,Wed 13:00,seandouglas@mathis.info
+P0179,Kenneth Fox MD,Law,Professor,Wed 14:00,yangmark@boyer-bell.com
+P0180,James Saunders,Medicine,Associate Professor,Mon 10:00,esparzamercedes@garcia.com
+P0181,Anne Potter,Computer Science,Associate Professor,Tue 16:00,lisaburns@bennett.com
+P0182,Kimberly Ray,Engineering,Assistant Professor,Thu 13:00,curtis36@gmail.com
+P0183,Kyle Thompson,Business,Assistant Professor,Mon 14:00,laura00@yahoo.com
+P0184,Bryan Kelly,Business,Professor,Wed 15:00,ashleysalas@gmail.com
+P0185,James Stokes,Arts,Professor,Thu 10:00,jlynn@vega-patterson.info
+P0186,Stephen Walker,Business,Assistant Professor,Mon 10:00,paulrich@gmail.com
+P0187,Sabrina Bennett,Engineering,Lecturer,Thu 10:00,diazpaul@yahoo.com
+P0188,Michael Hernandez,Arts,Assistant Professor,Thu 12:00,manuelcarroll@gregory.info
+P0189,Kevin Perry DVM,Arts,Professor,Wed 10:00,melissa26@stokes.com
+P0190,Craig Weber,Computer Science,Professor,Wed 12:00,kennethwhite@harrison-johnson.info
+P0191,Jeremy Gates,Engineering,Lecturer,Wed 14:00,brooksjohn@yahoo.com
+P0192,Tina Mccarty,Science,Professor,Wed 9:00,gregorysmith@hotmail.com
+P0193,Katherine Ramirez,Science,Associate Professor,Tue 16:00,donald48@gmail.com
+P0194,Michael Bell,Science,Assistant Professor,Mon 9:00,gilbertthomas@yahoo.com
+P0195,Cody Moore MD,Medicine,Assistant Professor,Thu 14:00,jonesjack@gallegos-nelson.org
+P0196,Sarah Anderson,Arts,Professor,Tue 15:00,nicholas18@gmail.com
+P0197,Brian Duncan,Law,Professor,Wed 11:00,lopezjessica@whitney.com
+P0198,Adrian Smith,Engineering,Lecturer,Tue 10:00,sarahmills@huang.com
+P0199,Eric Hebert,Engineering,Professor,Wed 16:00,grantsandra@chambers.com
+P0200,Andrew Holland,Computer Science,Lecturer,Tue 9:00,matthewlee@hotmail.com
+P0201,Thomas Martinez,Business,Lecturer,Wed 9:00,jennyromero@miller-york.biz
+P0202,Jamie Schultz MD,Engineering,Lecturer,Thu 16:00,ntucker@tate.org
+P0203,Emily Carter,Business,Assistant Professor,Thu 15:00,peter20@gmail.com
+P0204,Andrew Jones,Law,Lecturer,Wed 14:00,hobbsrachel@conway-mora.com
+P0205,Susan Nelson,Law,Assistant Professor,Tue 10:00,qmiller@hotmail.com
+P0206,Erika Hill,Science,Professor,Thu 9:00,allisonmorse@hughes.com
+P0207,Nicholas Mcdonald,Arts,Professor,Tue 9:00,shirleyberry@yahoo.com
+P0208,Andrew Ortiz,Law,Assistant Professor,Thu 11:00,xwilliams@yahoo.com
+P0209,Adam Thompson,Business,Lecturer,Tue 16:00,jeffery94@gmail.com
+P0210,Elizabeth Gentry,Arts,Assistant Professor,Wed 13:00,veronica46@gmail.com
+P0211,Sara Friedman,Arts,Professor,Tue 15:00,anthonykenneth@scott-stewart.com
+P0212,David Oconnor,Business,Lecturer,Tue 14:00,jriley@rose.info
+P0213,Angela Glass,Science,Lecturer,Tue 11:00,jeanette11@solomon-ayala.org
+P0214,Sheila Irwin,Engineering,Associate Professor,Mon 16:00,kmeyer@yahoo.com
+P0215,Dawn Walls,Arts,Lecturer,Wed 10:00,robertshannon@bernard.com
+P0216,Angie Fields,Business,Professor,Thu 9:00,fallen@hotmail.com
+P0217,Christopher Fowler,Law,Associate Professor,Mon 16:00,matthewrichardson@hotmail.com
+P0218,Miranda French,Arts,Associate Professor,Thu 9:00,glenjohnson@hotmail.com
+P0219,Jerry Jackson,Computer Science,Associate Professor,Mon 9:00,ricky30@gmail.com
+P0220,David Dennis,Law,Professor,Thu 12:00,gallagherdavid@lawrence.com
+P0221,Justin Reyes,Medicine,Lecturer,Tue 13:00,nicholassexton@gmail.com
+P0222,Andrea Carson,Business,Lecturer,Tue 15:00,changwilliam@yahoo.com
+P0223,Kathleen King,Business,Assistant Professor,Thu 13:00,tyler00@yahoo.com
+P0224,Teresa Miller,Engineering,Lecturer,Mon 13:00,mgarcia@hotmail.com
+P0225,Elizabeth Huerta,Science,Lecturer,Thu 11:00,derek29@booth-palmer.org
+P0226,Charles Allen,Science,Professor,Mon 13:00,debra48@rivera.com
+P0227,Lisa Wright,Computer Science,Professor,Thu 9:00,heather16@gmail.com
+P0228,Cynthia Crane,Business,Lecturer,Wed 16:00,jessica94@yahoo.com
+P0229,Joshua Clayton,Science,Professor,Tue 9:00,saunderspatricia@yahoo.com
+P0230,Veronica Elliott,Science,Assistant Professor,Wed 16:00,alicia38@hotmail.com
+P0231,Amanda Griffin,Medicine,Professor,Mon 16:00,robert47@gmail.com
+P0232,Kimberly Taylor,Business,Professor,Mon 13:00,monica22@yahoo.com
+P0233,Alice Gillespie,Engineering,Lecturer,Wed 11:00,jwilliams@gmail.com
+P0234,Alicia Salazar,Law,Assistant Professor,Wed 9:00,mannjennifer@anderson.com
+P0235,Dr. Paul Davis,Computer Science,Professor,Wed 12:00,alejandralopez@williams.com
+P0236,Joseph Petersen,Law,Assistant Professor,Thu 10:00,mharris@yahoo.com
+P0237,Alexander Charles,Medicine,Lecturer,Wed 14:00,guerrerojenny@yahoo.com
+P0238,Judy Davis,Arts,Professor,Thu 13:00,christinebowers@alexander.com
+P0239,Phyllis Morgan,Law,Professor,Mon 11:00,mhernandez@evans.net
+P0240,Raven Long,Science,Assistant Professor,Thu 12:00,herreramichael@gmail.com
+P0241,Kimberly Jackson,Business,Assistant Professor,Tue 16:00,melissa89@frey-douglas.info
+P0242,Joseph Valdez,Engineering,Professor,Mon 13:00,amy07@gmail.com
+P0243,Sarah Pollard,Business,Associate Professor,Mon 13:00,petersonerica@gmail.com
+P0244,Stephen Soto,Computer Science,Lecturer,Wed 15:00,debraevans@yahoo.com
+P0245,Francisco Cross,Arts,Professor,Thu 13:00,elizabeth47@anderson.org
+P0246,Raymond Price,Computer Science,Associate Professor,Thu 13:00,wrussell@hardy.com
+P0247,Raven Spears,Computer Science,Lecturer,Mon 16:00,mendozaheather@morse.com
+P0248,Jamie Waters,Science,Lecturer,Tue 11:00,zoe84@lam-roy.com
+P0249,Courtney Cohen,Law,Assistant Professor,Tue 9:00,rmorris@hotmail.com
+P0250,Susan Norman,Science,Lecturer,Thu 11:00,stevenbrown@hotmail.com
+P0251,David Williams,Arts,Associate Professor,Thu 16:00,kellyronnie@yahoo.com
+P0252,Michelle Silva,Computer Science,Associate Professor,Thu 10:00,debbietucker@yahoo.com
+P0253,Brandi Adams,Computer Science,Lecturer,Thu 14:00,nayala@hotmail.com
+P0254,Mr. Shane Alvarez,Law,Assistant Professor,Tue 11:00,amanda62@carter.com
+P0255,Sarah White,Medicine,Assistant Professor,Tue 14:00,jakemcclure@gmail.com
+P0256,Peter Wilson,Medicine,Lecturer,Thu 10:00,cynthia60@paul.com
+P0257,Daniel Atkins,Computer Science,Associate Professor,Tue 9:00,bhutchinson@hahn.org
+P0258,Ms. Deanna Montgomery,Engineering,Associate Professor,Thu 15:00,wthomas@williamson.com
+P0259,Tammy Smith,Medicine,Assistant Professor,Mon 13:00,kroberts@hammond.biz
+P0260,Amy Wilson,Law,Associate Professor,Thu 13:00,kevinhale@gmail.com
+P0261,Rebecca Shaffer,Law,Associate Professor,Tue 11:00,lisa88@haynes-luna.com
+P0262,Heather Manning,Engineering,Lecturer,Tue 9:00,fkemp@yahoo.com
+P0263,James Lucero,Science,Assistant Professor,Wed 12:00,wardzachary@rogers.com
+P0264,Jennifer Thompson,Computer Science,Professor,Tue 10:00,rebeccahardy@hill.com
+P0265,Jennifer White,Law,Associate Professor,Mon 12:00,susanmiller@benson-smith.biz
+P0266,Perry Simmons,Engineering,Associate Professor,Thu 14:00,adamsdanielle@gmail.com
+P0267,Spencer Hunter,Arts,Lecturer,Thu 14:00,igreen@thomas-white.com
+P0268,Christopher Foster,Medicine,Professor,Tue 15:00,stacey19@kaiser.com
+P0269,Brian Washington,Business,Assistant Professor,Mon 13:00,yadams@jones-combs.com
+P0270,Matthew Greer,Arts,Professor,Mon 9:00,ashley32@ball.com
+P0271,Jordan Anderson,Medicine,Associate Professor,Wed 14:00,keithcalvin@hotmail.com
+P0272,Amy Morris,Computer Science,Assistant Professor,Wed 10:00,poncemichael@moore-hawkins.com
+P0273,Tracey Cook,Law,Associate Professor,Tue 10:00,martinezdiana@cross-jones.com
+P0274,Daniel Johnson,Engineering,Lecturer,Wed 15:00,lorimontes@woods-jackson.com
+P0275,Courtney Hampton,Science,Associate Professor,Mon 10:00,dunnkevin@larson-green.org
+P0276,Marie Lopez,Engineering,Assistant Professor,Mon 11:00,gharmon@gmail.com
+P0277,Randy Dunn,Engineering,Associate Professor,Mon 9:00,diazsteve@hotmail.com
+P0278,Jo Carson,Medicine,Professor,Thu 14:00,hillaudrey@wilson.com
+P0279,Dennis Smith,Engineering,Professor,Thu 11:00,john00@schmidt.info
+P0280,Jason Hickman,Medicine,Associate Professor,Thu 15:00,robinsonmichael@richardson.com
+P0281,Samantha Powers,Arts,Lecturer,Thu 9:00,gonzalezbrittany@hotmail.com
+P0282,Catherine Mason,Law,Lecturer,Tue 14:00,katherineortiz@hotmail.com
+P0283,Tyler Hill,Law,Associate Professor,Wed 12:00,tiffanybrown@hotmail.com
+P0284,Nathan Jones,Medicine,Professor,Thu 12:00,ekerr@armstrong-lopez.com
+P0285,Mary Campbell,Law,Assistant Professor,Wed 16:00,probertson@aguilar.com
+P0286,Stephanie King,Business,Professor,Mon 9:00,jamesfrank@jacobs.com
+P0287,Valerie Adkins,Computer Science,Assistant Professor,Thu 9:00,williamsgary@anthony.com
+P0288,Courtney Simon,Law,Assistant Professor,Mon 11:00,gfreeman@hotmail.com
+P0289,Michael Lambert,Arts,Associate Professor,Wed 11:00,macdonaldjonathan@yahoo.com
+P0290,Charles Blackwell,Medicine,Professor,Tue 10:00,benjamin58@campbell.info
+P0291,Michelle Tran,Business,Assistant Professor,Thu 14:00,harrisonmichael@gmail.com
+P0292,Stacy Long,Science,Professor,Wed 13:00,jacqueline56@anderson.com
+P0293,Maria Mccarthy,Business,Lecturer,Thu 15:00,angelabecker@hotmail.com
+P0294,Matthew Wright,Law,Associate Professor,Thu 11:00,jamesgonzalez@gmail.com
+P0295,Paul Cardenas,Computer Science,Lecturer,Tue 14:00,kalvarez@yahoo.com
+P0296,Melissa Hammond,Science,Lecturer,Mon 16:00,griffinkurt@mason.com
+P0297,Larry Walker,Business,Assistant Professor,Tue 14:00,matthew49@yahoo.com
+P0298,Rachel Huffman,Business,Lecturer,Mon 9:00,nicholasmonroe@gmail.com
+P0299,Stacey Wagner,Science,Associate Professor,Mon 14:00,efrancis@yahoo.com
+P0300,Jessica Mills,Computer Science,Associate Professor,Mon 13:00,ambermiddleton@mcdaniel-adams.net

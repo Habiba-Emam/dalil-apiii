@@ -1,0 +1,1501 @@
+student_id,name,gender,age,major,year,GPA,status
+S00001,John Choi,Female,29,Science,4,2.42,Active
+S00002,Leslie Russell,Male,28,Medicine,1,2.96,Active
+S00003,Mary Evans,Female,29,Medicine,1,2.49,Active
+S00004,Wendy Arnold,Female,29,Arts,1,2.7,Active
+S00005,Julie Nichols,Male,21,Computer Science,3,1.54,Probation
+S00006,Michelle Kemp,Male,24,Business,2,2.8,Active
+S00007,Jessica Andersen,Female,20,Arts,3,2.85,Active
+S00008,Jason Morton,Male,28,Business,3,1.81,Probation
+S00009,Tiffany Wilson,Male,30,Computer Science,1,3.46,Active
+S00010,Olivia Mckinney,Male,28,Science,1,2.07,Active
+S00011,Monica Bailey,Male,29,Arts,3,3.71,Active
+S00012,Samantha Lopez,Female,19,Medicine,2,3.78,Active
+S00013,Brandon Rodriguez,Female,19,Law,1,1.93,Probation
+S00014,Travis Clark,Male,21,Engineering,4,2.57,Active
+S00015,Christina Flores,Male,18,Law,4,2.77,Active
+S00016,Jesse Pruitt,Male,30,Medicine,4,1.73,Probation
+S00017,Bobby Ramirez,Female,25,Science,3,2.78,Active
+S00018,Samuel Hayden,Female,19,Computer Science,4,3.85,Active
+S00019,Darlene Watson,Female,23,Business,4,2.22,Active
+S00020,Kimberly Richardson,Male,30,Law,3,1.59,Probation
+S00021,Kathy Jones,Male,22,Computer Science,1,2.9,Active
+S00022,Judith Heath,Male,29,Law,2,1.82,Probation
+S00023,Ms. Elizabeth Carney MD,Male,18,Law,4,1.58,Probation
+S00024,Alexander Rocha,Male,24,Medicine,1,2.71,Active
+S00025,Robert Gutierrez,Female,26,Engineering,3,3.86,Active
+S00026,Joseph Hess,Male,29,Arts,4,1.6,Probation
+S00027,Mr. Richard Murray MD,Female,19,Business,1,3.81,Active
+S00028,Lisa Fox,Male,29,Computer Science,3,3.3,Active
+S00029,James Fuller,Female,27,Medicine,2,3.45,Active
+S00030,Sarah Austin,Male,25,Science,1,2.92,Active
+S00031,Kevin Owens,Female,25,Science,1,2.07,Active
+S00032,Henry Shepard,Male,22,Computer Science,3,2.16,Active
+S00033,Maria Price,Female,30,Engineering,1,1.57,Probation
+S00034,Tamara Brooks,Female,19,Science,3,3.65,Active
+S00035,Kristy Baker,Female,26,Engineering,4,3.57,Active
+S00036,Jonathan Contreras,Male,28,Engineering,3,2.95,Active
+S00037,Miguel Reynolds,Female,30,Computer Science,4,3.24,Active
+S00038,Shane Jackson,Male,23,Medicine,2,2.45,Active
+S00039,Dawn Suarez,Male,26,Medicine,2,3.19,Active
+S00040,Joseph Ayala,Female,18,Medicine,1,3.89,Active
+S00041,Donald Blair,Male,22,Engineering,1,1.76,Probation
+S00042,Mason Morris,Male,25,Engineering,4,3.41,Active
+S00043,Rodney Hopkins,Female,21,Business,3,3.29,Active
+S00044,Lorraine Robinson,Male,29,Arts,3,2.1,Active
+S00045,Joseph Ramos,Male,18,Law,2,3.44,Active
+S00046,Mr. Charles Dyer,Female,25,Arts,2,3.35,Active
+S00047,Megan Russell,Female,29,Business,3,3.08,Active
+S00048,Karen Porter,Male,30,Arts,1,3.48,Active
+S00049,Sara Walker,Male,27,Arts,4,2.09,Active
+S00050,Julie Thompson,Female,27,Engineering,2,3.36,Active
+S00051,Chris Cardenas,Female,21,Arts,2,2.27,Active
+S00052,Guy Wade,Female,26,Computer Science,4,1.6,Probation
+S00053,Jennifer Wells,Male,26,Law,2,1.58,Probation
+S00054,Robyn Davis,Male,29,Computer Science,3,2.4,Active
+S00055,Madison Anderson,Male,28,Medicine,1,2.6,Active
+S00056,Jonathan Greene,Female,22,Computer Science,4,2.69,Active
+S00057,Thomas Smith,Male,18,Business,3,1.6,Probation
+S00058,Jade Hughes,Male,24,Computer Science,4,2.66,Active
+S00059,James Boyd,Male,28,Science,4,2.06,Active
+S00060,James Hooper,Male,26,Law,3,2.94,Active
+S00061,Jaime Horne,Male,27,Medicine,4,2.44,Active
+S00062,Colleen Garcia,Female,18,Science,4,3.86,Active
+S00063,Michelle Roberts,Male,29,Medicine,4,3.46,Active
+S00064,Joyce Hughes,Male,27,Engineering,1,2.82,Active
+S00065,Dylan Santos,Female,23,Science,3,3.27,Active
+S00066,Joy Silva,Male,30,Science,4,1.65,Probation
+S00067,Steven Carpenter,Male,26,Law,4,2.0,Active
+S00068,Charles Wall,Male,28,Engineering,1,3.32,Active
+S00069,Dennis Chen,Female,22,Science,2,3.35,Active
+S00070,Donna Howard,Female,23,Business,3,2.71,Active
+S00071,Catherine Nguyen,Female,20,Engineering,3,3.75,Active
+S00072,Alicia Owen,Male,26,Medicine,4,2.29,Active
+S00073,Mary Taylor,Male,27,Business,1,2.22,Active
+S00074,Brianna Nielsen,Female,18,Engineering,3,1.69,Probation
+S00075,Matthew Rojas,Male,25,Computer Science,2,3.38,Active
+S00076,Anna Gonzalez,Male,20,Science,1,2.08,Active
+S00077,Robert Jones,Female,23,Science,4,1.75,Probation
+S00078,Alicia Moore,Male,25,Arts,2,3.76,Active
+S00079,Jose Daniel,Female,30,Law,2,2.65,Active
+S00080,Joshua Sanchez,Female,19,Law,2,2.37,Active
+S00081,Alexandra Odonnell,Male,24,Engineering,2,3.06,Active
+S00082,Nicholas Hurley,Male,21,Computer Science,2,2.54,Active
+S00083,Blake Harris,Male,23,Medicine,2,3.27,Active
+S00084,Andrew Wagner,Male,27,Engineering,3,2.76,Active
+S00085,Brittney Strong,Female,24,Engineering,4,3.42,Active
+S00086,Allison Park,Male,28,Computer Science,3,2.06,Active
+S00087,Ana Koch,Male,25,Medicine,3,2.13,Active
+S00088,Devin Stone II,Male,20,Medicine,2,3.5,Active
+S00089,Douglas Rhodes,Female,29,Law,2,3.61,Active
+S00090,Whitney Thompson,Female,26,Engineering,4,3.91,Active
+S00091,Casey Mitchell,Female,20,Business,1,2.16,Active
+S00092,Robert Gill,Male,19,Law,4,3.38,Active
+S00093,Christina Black,Male,29,Computer Science,3,3.9,Active
+S00094,Diane Harris,Female,20,Business,4,2.32,Active
+S00095,Jonathan Erickson,Female,26,Arts,2,2.06,Active
+S00096,Amber Rojas,Female,23,Computer Science,1,3.51,Active
+S00097,Christopher Jones,Male,18,Computer Science,1,3.76,Active
+S00098,Shannon Brown,Male,21,Computer Science,4,2.58,Active
+S00099,Michael Garcia,Female,25,Computer Science,3,1.55,Probation
+S00100,Sonya Gill,Female,26,Computer Science,2,2.45,Active
+S00101,Barry Fields,Female,18,Science,3,2.26,Active
+S00102,Tamara Decker,Male,20,Business,3,3.58,Active
+S00103,Sherry Palmer,Female,26,Law,4,3.32,Active
+S00104,Paula Morgan DVM,Female,21,Arts,1,3.68,Active
+S00105,Lauren Ingram,Male,26,Science,4,3.64,Active
+S00106,Doris Thornton,Male,26,Arts,2,1.54,Probation
+S00107,Anthony Vega,Male,29,Engineering,2,2.6,Active
+S00108,Frank Rivera,Male,21,Computer Science,2,3.52,Active
+S00109,Richard Bernard,Female,25,Science,3,1.79,Probation
+S00110,Christopher Turner,Male,30,Engineering,1,3.53,Active
+S00111,Steven Jones,Male,26,Computer Science,1,3.74,Active
+S00112,Pamela Patterson,Female,29,Business,2,2.24,Active
+S00113,Brooke Lopez,Female,28,Science,1,2.45,Active
+S00114,Danielle Sanford,Male,29,Business,1,1.58,Probation
+S00115,Christina Davidson,Female,24,Computer Science,4,3.08,Active
+S00116,Micheal Gonzalez,Female,30,Law,4,1.55,Probation
+S00117,Martin Morrow,Male,29,Science,1,2.65,Active
+S00118,Tammy Murray,Male,23,Law,3,3.12,Active
+S00119,Aaron Perez,Female,28,Arts,1,2.48,Active
+S00120,Candice Sherman,Female,27,Arts,2,3.42,Active
+S00121,Bobby Carter,Male,28,Law,3,3.58,Active
+S00122,Brian Johnson,Male,30,Computer Science,2,3.01,Active
+S00123,Gina Horne,Female,22,Science,3,3.72,Active
+S00124,Regina Oneal,Male,18,Computer Science,1,2.5,Active
+S00125,Kristen Wood,Male,20,Business,4,1.98,Probation
+S00126,Brittany Keller,Male,28,Computer Science,4,1.94,Probation
+S00127,James Santos,Female,20,Science,3,3.89,Active
+S00128,Daniel Lindsey,Female,27,Science,3,3.39,Active
+S00129,Jennifer Gilbert,Female,18,Medicine,3,3.03,Active
+S00130,Mark Moore,Male,26,Computer Science,4,2.11,Active
+S00131,Nicholas Haynes,Female,26,Arts,1,1.54,Probation
+S00132,Timothy Rodriguez,Male,24,Law,3,1.69,Probation
+S00133,James Johnson,Male,22,Business,1,2.16,Active
+S00134,David Simmons,Male,23,Arts,3,3.77,Active
+S00135,Mary Nguyen,Male,27,Science,3,2.38,Active
+S00136,Linda Dunn,Female,22,Law,2,3.47,Active
+S00137,Cynthia Dalton,Female,23,Medicine,1,3.94,Active
+S00138,Derrick Moody,Female,25,Business,2,1.77,Probation
+S00139,Frank Foster,Female,22,Computer Science,4,3.29,Active
+S00140,Melissa Williams,Male,19,Science,1,1.77,Probation
+S00141,David Ryan,Female,30,Law,4,2.2,Active
+S00142,Michael Jimenez,Female,24,Medicine,3,2.51,Active
+S00143,John Fletcher,Male,26,Arts,1,3.47,Active
+S00144,Karen Robinson,Male,23,Science,2,2.5,Active
+S00145,Nicole Morales,Female,27,Science,3,2.17,Active
+S00146,Laura Williams,Male,18,Medicine,2,2.56,Active
+S00147,Charles Adams,Male,30,Medicine,1,2.28,Active
+S00148,John George,Male,24,Medicine,2,3.25,Active
+S00149,Lynn Giles,Male,18,Medicine,2,3.91,Active
+S00150,Angela Wheeler,Male,29,Business,1,2.02,Active
+S00151,Joseph Knight,Female,24,Business,4,2.47,Active
+S00152,David Brown,Male,20,Computer Science,2,2.48,Active
+S00153,Joseph Patton,Male,28,Medicine,1,3.31,Active
+S00154,Andrew Jackson,Male,21,Law,1,2.5,Active
+S00155,Jennifer Gray,Male,20,Computer Science,2,2.56,Active
+S00156,Mary Galvan,Female,18,Law,1,3.53,Active
+S00157,Kelly West,Male,26,Engineering,3,2.31,Active
+S00158,Caleb Lynn,Male,24,Engineering,4,3.73,Active
+S00159,Lori Booker,Male,30,Law,3,3.42,Active
+S00160,Danielle Lopez,Male,27,Computer Science,2,3.81,Active
+S00161,Richard Torres,Female,26,Law,1,2.42,Active
+S00162,Chad Robinson,Male,23,Arts,1,3.77,Active
+S00163,Linda Strong,Male,29,Medicine,3,2.24,Active
+S00164,Amanda Miller,Female,28,Medicine,2,3.82,Active
+S00165,Kathleen Taylor,Male,20,Science,1,1.57,Probation
+S00166,Carla Oneal,Female,19,Arts,4,3.24,Active
+S00167,Karen Bell,Male,21,Business,3,1.82,Probation
+S00168,Veronica Cole,Female,26,Arts,2,3.48,Active
+S00169,Daniel Lee,Female,30,Science,2,3.87,Active
+S00170,Ashley Lowery,Male,23,Medicine,3,3.53,Active
+S00171,Katie Gomez,Male,18,Arts,4,3.04,Active
+S00172,Robert Duncan,Female,30,Medicine,1,2.14,Active
+S00173,Matthew Castro,Female,21,Science,2,1.5,Probation
+S00174,Kenneth Stevens,Male,29,Engineering,4,1.81,Probation
+S00175,Kayla Reeves,Male,22,Law,2,3.38,Active
+S00176,Carlos Robertson,Male,19,Arts,1,1.67,Probation
+S00177,Jeanette Novak,Female,23,Computer Science,4,2.02,Active
+S00178,Jose Flowers,Female,19,Business,2,3.62,Active
+S00179,Adam Taylor,Male,27,Law,1,3.35,Active
+S00180,Cole Munoz,Male,22,Engineering,1,2.97,Active
+S00181,Frank Bell,Male,26,Computer Science,4,3.68,Active
+S00182,Tom Moyer,Male,21,Science,2,1.89,Probation
+S00183,John Norman,Female,22,Law,3,3.59,Active
+S00184,Clarence Morse,Male,27,Arts,4,3.92,Active
+S00185,Erin Farley,Female,30,Computer Science,3,3.28,Active
+S00186,Michael Murillo,Female,29,Science,3,2.71,Active
+S00187,Wesley Morton,Female,21,Engineering,2,1.94,Probation
+S00188,Renee Lamb,Male,27,Medicine,3,1.56,Probation
+S00189,John Stevens,Male,19,Science,2,3.81,Active
+S00190,Victor Rivera,Male,22,Law,3,2.38,Active
+S00191,David Kirk,Female,21,Engineering,2,3.22,Active
+S00192,Lori Farley,Male,21,Medicine,4,2.22,Active
+S00193,Christine Boyle,Male,21,Computer Science,3,2.25,Active
+S00194,Gina Flowers,Female,24,Business,1,2.19,Active
+S00195,Joshua Simmons,Male,26,Computer Science,1,3.56,Active
+S00196,Cory Johnson DDS,Male,27,Computer Science,3,2.33,Active
+S00197,Lisa Murphy,Female,23,Science,4,2.66,Active
+S00198,April Adams,Female,22,Engineering,1,3.6,Active
+S00199,Shelly Reed,Female,21,Business,4,3.48,Active
+S00200,Melissa Roman,Female,24,Business,4,1.52,Probation
+S00201,Shawn Edwards,Male,29,Engineering,4,3.85,Active
+S00202,Chad Schwartz,Female,20,Law,3,2.5,Active
+S00203,Melissa Harrington,Male,27,Computer Science,1,3.69,Active
+S00204,Andrew Cox,Male,18,Computer Science,2,2.46,Active
+S00205,Dana English,Male,29,Medicine,2,3.65,Active
+S00206,Fred Hooper,Male,22,Law,3,2.14,Active
+S00207,Tammy Weeks,Male,19,Medicine,2,3.14,Active
+S00208,Linda Scott,Female,19,Engineering,3,2.94,Active
+S00209,Jimmy Mcdonald,Male,25,Medicine,3,3.03,Active
+S00210,Dr. Andrew Howard,Male,22,Science,3,3.36,Active
+S00211,Samantha Kelley,Male,30,Law,4,1.94,Probation
+S00212,Caleb Berger,Female,20,Arts,1,3.9,Active
+S00213,Teresa Stevens,Male,20,Medicine,3,3.53,Active
+S00214,Ashley Allen,Female,23,Computer Science,4,3.35,Active
+S00215,Carmen Roy,Male,28,Law,2,3.98,Active
+S00216,Barbara Davis,Male,26,Law,2,2.02,Active
+S00217,Pamela Lee,Female,21,Science,1,1.53,Probation
+S00218,Cynthia Smith,Female,27,Computer Science,4,3.78,Active
+S00219,Jennifer Day,Female,28,Engineering,3,2.72,Active
+S00220,Marisa Sanchez,Male,30,Engineering,2,2.3,Active
+S00221,Jessica Rodriguez,Male,19,Engineering,3,3.28,Active
+S00222,Jennifer Young,Male,20,Engineering,1,2.86,Active
+S00223,Justin Parker,Female,27,Business,3,1.66,Probation
+S00224,Scott Smith,Female,29,Computer Science,1,2.34,Active
+S00225,Nicholas Chase,Female,21,Arts,4,1.84,Probation
+S00226,Edward Gentry,Female,27,Arts,3,1.55,Probation
+S00227,Jason Patton,Male,23,Medicine,3,3.12,Active
+S00228,Nicole Dean,Female,28,Medicine,1,2.55,Active
+S00229,Molly Smith,Female,30,Computer Science,1,2.53,Active
+S00230,William Bennett,Female,26,Medicine,3,1.59,Probation
+S00231,Christopher Walker,Female,19,Business,3,2.65,Active
+S00232,Mariah Bowman,Female,22,Science,3,3.75,Active
+S00233,James Vargas,Female,21,Law,4,2.08,Active
+S00234,Matthew Morgan,Female,28,Engineering,1,2.5,Active
+S00235,Denise Barber,Female,19,Science,1,1.56,Probation
+S00236,Brian Fitzpatrick,Female,21,Business,2,2.52,Active
+S00237,Gina Ward,Female,26,Science,4,1.65,Probation
+S00238,Diana Landry,Female,18,Law,3,3.4,Active
+S00239,Colleen Patel,Male,25,Law,3,2.81,Active
+S00240,Ross Williams,Female,30,Business,4,3.27,Active
+S00241,Stephanie Galloway,Female,23,Engineering,3,3.46,Active
+S00242,Jonathan Moore,Female,22,Computer Science,2,2.28,Active
+S00243,Kyle Ali,Female,25,Arts,4,3.53,Active
+S00244,Pamela Jarvis,Male,18,Business,4,2.46,Active
+S00245,Sarah Hicks,Male,21,Law,1,1.77,Probation
+S00246,Robert Wilkerson,Female,23,Medicine,2,2.79,Active
+S00247,Tony Casey,Female,29,Arts,1,1.69,Probation
+S00248,Tanya Snyder,Female,22,Arts,3,1.51,Probation
+S00249,Eric White,Male,29,Medicine,2,2.13,Active
+S00250,Ashley Simmons,Male,26,Engineering,3,3.92,Active
+S00251,John Miller,Male,29,Law,4,1.62,Probation
+S00252,Corey Mclean,Female,29,Law,3,2.38,Active
+S00253,Kathryn Smith,Female,25,Engineering,2,1.82,Probation
+S00254,Beverly Drake,Male,22,Medicine,4,2.58,Active
+S00255,Brittany Hill,Female,20,Medicine,4,3.75,Active
+S00256,William Decker,Male,26,Computer Science,2,2.94,Active
+S00257,David Hunt,Female,19,Business,1,2.35,Active
+S00258,Charles Johnson,Female,20,Arts,2,2.8,Active
+S00259,Logan Mitchell,Male,24,Engineering,2,2.14,Active
+S00260,Marcus Brown,Female,22,Computer Science,4,3.3,Active
+S00261,Eugene Gomez,Female,27,Computer Science,3,1.56,Probation
+S00262,Bob Davis,Female,18,Medicine,1,3.93,Active
+S00263,Alexander Leach,Female,29,Computer Science,4,2.26,Active
+S00264,Nicholas Gutierrez,Female,25,Arts,3,2.17,Active
+S00265,Anthony Anderson,Female,24,Law,3,1.84,Probation
+S00266,Alexander Wiley,Female,22,Medicine,1,3.22,Active
+S00267,Andrea Collier,Female,30,Business,2,1.87,Probation
+S00268,Jennifer Reed,Male,23,Medicine,3,3.98,Active
+S00269,Dr. Stephanie Burns,Female,28,Medicine,1,1.69,Probation
+S00270,James Poole,Male,25,Science,1,3.85,Active
+S00271,Jeffrey Salazar,Female,23,Engineering,3,3.16,Active
+S00272,Edwin Watson,Female,22,Medicine,3,1.63,Probation
+S00273,Kathleen Flores,Male,29,Medicine,3,1.79,Probation
+S00274,Karen Robinson,Male,24,Engineering,4,2.81,Active
+S00275,Danny Sloan,Female,27,Medicine,2,3.84,Active
+S00276,Jennifer Taylor MD,Female,25,Engineering,4,2.31,Active
+S00277,Scott Dominguez,Female,18,Computer Science,3,1.77,Probation
+S00278,Yvonne Alvarez,Male,25,Law,3,1.57,Probation
+S00279,Robert Huffman,Male,23,Engineering,4,1.96,Probation
+S00280,Patricia Clark,Male,26,Law,4,3.18,Active
+S00281,Jerome Nielsen,Male,27,Arts,2,2.66,Active
+S00282,Leslie Robbins,Male,18,Law,3,2.71,Active
+S00283,Ashley Wright,Male,27,Business,3,2.47,Active
+S00284,Michael Pham,Female,28,Arts,3,1.73,Probation
+S00285,Heather Munoz,Female,19,Computer Science,4,2.87,Active
+S00286,Whitney Davis,Female,26,Engineering,2,3.3,Active
+S00287,Curtis Arellano,Female,30,Science,2,2.44,Active
+S00288,Edward Greene,Male,28,Medicine,2,2.07,Active
+S00289,Danielle Hunter,Male,30,Computer Science,3,1.5,Probation
+S00290,Craig Neal,Female,24,Medicine,3,1.84,Probation
+S00291,Angel Sparks,Female,24,Science,3,1.78,Probation
+S00292,Abigail Walker,Female,23,Science,3,3.19,Active
+S00293,Craig Tanner,Female,26,Engineering,2,3.67,Active
+S00294,Rachel Hunter,Female,21,Arts,4,2.74,Active
+S00295,Jonathan Copeland,Female,29,Business,3,3.09,Active
+S00296,Amy Velasquez,Male,24,Law,1,3.09,Active
+S00297,Carl Weaver,Female,19,Engineering,3,2.99,Active
+S00298,Andrew Blair,Male,23,Engineering,3,3.73,Active
+S00299,Frank Wright,Female,28,Arts,1,2.89,Active
+S00300,Sophia Cain,Female,21,Law,2,2.75,Active
+S00301,Susan Andrade MD,Female,25,Engineering,3,1.79,Probation
+S00302,Christopher Mcdonald,Female,21,Medicine,1,2.78,Active
+S00303,John Morales,Male,29,Science,1,2.2,Active
+S00304,Heather Garcia,Male,21,Science,2,2.56,Active
+S00305,Thomas Jackson,Male,28,Science,4,2.57,Active
+S00306,Robin Young,Male,19,Engineering,1,3.9,Active
+S00307,Thomas Alvarado,Female,21,Medicine,1,2.87,Active
+S00308,Dr. Kyle Williams PhD,Male,26,Science,4,2.76,Active
+S00309,Danielle Bailey,Female,30,Law,4,3.18,Active
+S00310,Henry Sanchez,Male,26,Medicine,1,2.11,Active
+S00311,Emily Price,Male,27,Medicine,1,3.54,Active
+S00312,Thomas Morris,Female,18,Law,2,3.59,Active
+S00313,Lisa Werner,Male,20,Science,3,3.15,Active
+S00314,Gabriel Mcdowell,Male,19,Law,3,3.16,Active
+S00315,Denise White,Female,24,Business,1,3.24,Active
+S00316,Christina Richardson,Male,28,Engineering,3,3.06,Active
+S00317,Roberto Parks,Female,21,Law,4,2.56,Active
+S00318,Kelsey Cunningham,Female,20,Engineering,4,2.01,Active
+S00319,Melissa Young,Female,30,Computer Science,2,3.67,Active
+S00320,Samantha Moss,Female,30,Medicine,3,3.92,Active
+S00321,Katherine Martinez,Male,21,Computer Science,1,2.11,Active
+S00322,Troy Owens,Male,30,Computer Science,3,3.07,Active
+S00323,Harold Lopez,Male,19,Arts,2,2.29,Active
+S00324,Tricia Pittman,Male,22,Medicine,2,3.15,Active
+S00325,Anthony Howard,Male,28,Business,4,2.64,Active
+S00326,Timothy Bryant,Female,18,Law,1,1.87,Probation
+S00327,Deborah Hernandez,Female,28,Science,2,2.65,Active
+S00328,Theresa Chavez,Female,18,Science,2,2.05,Active
+S00329,Wesley Mitchell,Female,28,Computer Science,4,1.79,Probation
+S00330,William Ashley,Female,28,Computer Science,1,3.18,Active
+S00331,David Miller,Male,30,Medicine,4,2.78,Active
+S00332,Leah King,Female,24,Science,4,1.6,Probation
+S00333,Anthony Christian,Female,22,Medicine,2,2.88,Active
+S00334,Alec Vazquez,Male,18,Arts,3,3.16,Active
+S00335,Paul Villarreal,Female,30,Computer Science,1,3.17,Active
+S00336,Sarah Hodges,Female,30,Arts,2,3.62,Active
+S00337,John Brown,Male,23,Engineering,4,1.75,Probation
+S00338,Jose Carlson,Male,24,Science,2,3.71,Active
+S00339,Jodi Russell,Male,30,Arts,2,3.62,Active
+S00340,Joel Oliver,Female,25,Medicine,4,1.53,Probation
+S00341,Lauren Ibarra,Female,22,Science,4,3.09,Active
+S00342,Kristen Page,Male,30,Medicine,1,1.86,Probation
+S00343,Sarah Edwards,Female,22,Computer Science,1,3.14,Active
+S00344,William Kerr,Male,18,Law,3,3.34,Active
+S00345,Justin Castro,Female,24,Science,4,3.28,Active
+S00346,Christopher Mccoy,Male,20,Law,1,3.04,Active
+S00347,Andrea Cole,Female,23,Computer Science,2,2.22,Active
+S00348,Andrew Shepard,Male,25,Science,4,1.91,Probation
+S00349,Emily May,Female,30,Business,4,1.59,Probation
+S00350,Candace Brown,Male,25,Science,3,1.6,Probation
+S00351,Kyle Frank,Female,24,Medicine,3,3.61,Active
+S00352,Jeffrey Martinez,Female,20,Arts,3,3.53,Active
+S00353,David Rice,Male,20,Arts,4,2.27,Active
+S00354,Todd Huber,Female,21,Medicine,3,2.25,Active
+S00355,Brian Morgan,Male,19,Arts,2,2.86,Active
+S00356,Sierra Fuentes,Female,28,Business,1,2.19,Active
+S00357,Frank Allen,Female,20,Arts,3,2.83,Active
+S00358,Danielle Stewart,Male,27,Arts,2,3.04,Active
+S00359,Nicole Cunningham,Male,18,Business,2,2.14,Active
+S00360,Melanie Alvarez,Female,26,Law,2,3.57,Active
+S00361,Jonathan Walter,Female,30,Computer Science,2,1.85,Probation
+S00362,Donald Sanders,Female,25,Science,4,2.78,Active
+S00363,James Simmons,Female,20,Business,1,3.1,Active
+S00364,Caleb Mendoza,Male,19,Arts,4,2.8,Active
+S00365,Brittany Hernandez DDS,Female,21,Law,1,2.72,Active
+S00366,Stephen Valencia,Male,21,Law,1,2.26,Active
+S00367,Manuel Dalton,Female,19,Computer Science,2,1.65,Probation
+S00368,Heather Gonzalez,Female,18,Arts,1,2.14,Active
+S00369,Donald Rodriguez,Male,18,Law,3,3.12,Active
+S00370,Diane Rogers,Male,28,Business,3,2.91,Active
+S00371,Katie Estrada,Male,27,Arts,3,3.48,Active
+S00372,Connie Howard,Male,23,Engineering,4,2.28,Active
+S00373,Ryan Burton,Male,28,Computer Science,1,3.48,Active
+S00374,Monica Sanchez,Female,26,Science,1,3.82,Active
+S00375,Jason Rodriguez,Male,29,Arts,4,1.62,Probation
+S00376,Amy Stevens,Male,26,Law,3,2.13,Active
+S00377,Brianna Long DVM,Male,20,Business,4,1.77,Probation
+S00378,Kelly Miller,Female,28,Arts,3,2.51,Active
+S00379,Christine Liu,Male,21,Science,2,3.38,Active
+S00380,Nichole Jones,Male,22,Business,2,1.82,Probation
+S00381,Shannon Henderson,Male,21,Computer Science,1,2.87,Active
+S00382,Jordan Williams,Female,19,Arts,4,1.8,Probation
+S00383,Ashley Lang,Male,30,Law,1,2.72,Active
+S00384,Michael Mercado,Male,23,Law,2,3.95,Active
+S00385,Dr. Andrew Klein,Female,29,Medicine,1,2.86,Active
+S00386,Rebecca Reed,Male,27,Law,2,2.9,Active
+S00387,Carlos Knight,Male,28,Science,1,2.26,Active
+S00388,Christine Rich,Male,24,Medicine,4,1.98,Probation
+S00389,Patricia Johnson,Male,28,Medicine,4,3.82,Active
+S00390,Gina Mitchell,Female,26,Science,1,2.43,Active
+S00391,Chelsea Morrow,Female,25,Science,4,3.53,Active
+S00392,Katie Mckinney,Male,28,Arts,4,2.23,Active
+S00393,Gabriel Lee,Male,19,Arts,3,2.65,Active
+S00394,Samantha Fuentes,Male,24,Law,4,1.98,Probation
+S00395,George Ferguson,Male,22,Law,1,1.89,Probation
+S00396,Julie Kelley,Female,19,Science,4,2.72,Active
+S00397,Harold Dodson,Female,20,Engineering,3,2.52,Active
+S00398,Christy Howell,Female,28,Arts,2,1.68,Probation
+S00399,Steven Hunt,Male,22,Medicine,3,3.44,Active
+S00400,Daryl Cowan DVM,Female,23,Arts,1,3.51,Active
+S00401,Jennifer Scott,Female,21,Business,4,2.63,Active
+S00402,Stephanie White,Male,30,Engineering,3,2.58,Active
+S00403,Jennifer Wang,Male,20,Law,4,2.29,Active
+S00404,Tonya Joseph,Male,18,Law,3,3.61,Active
+S00405,Adam Diaz,Male,26,Business,1,3.05,Active
+S00406,Frederick Gilbert,Female,19,Business,4,3.97,Active
+S00407,Douglas Brooks,Female,26,Business,1,1.93,Probation
+S00408,Sarah Williams,Male,23,Computer Science,1,2.91,Active
+S00409,Erika Lynch,Female,29,Law,4,2.48,Active
+S00410,Thomas Vaughn,Female,25,Engineering,4,3.54,Active
+S00411,William Whitaker,Male,19,Science,3,3.32,Active
+S00412,Megan Mckenzie,Female,24,Law,4,1.9,Probation
+S00413,Mrs. Elizabeth Hall DVM,Female,18,Science,4,2.63,Active
+S00414,Catherine Snyder,Female,18,Arts,1,3.24,Active
+S00415,Kelly Guerrero,Male,26,Medicine,1,2.44,Active
+S00416,Stephanie Reyes,Male,28,Computer Science,3,1.59,Probation
+S00417,Brandon Pennington DDS,Female,29,Business,1,2.61,Active
+S00418,Michelle Lee,Female,27,Engineering,1,2.84,Active
+S00419,Brandi Hart,Female,26,Science,1,3.8,Active
+S00420,Henry Hughes,Male,28,Medicine,2,1.6,Probation
+S00421,Nicole Gomez,Female,18,Computer Science,4,3.36,Active
+S00422,Chloe Lee,Female,19,Science,2,1.59,Probation
+S00423,Mr. Darren Martin,Female,23,Arts,3,3.49,Active
+S00424,Douglas Schmidt,Female,18,Engineering,1,2.54,Active
+S00425,Kristin Garcia,Female,29,Medicine,2,3.63,Active
+S00426,Benjamin Chandler,Male,18,Arts,3,2.35,Active
+S00427,Johnny Mckee,Female,20,Business,3,1.66,Probation
+S00428,Jared Morris,Female,25,Business,1,2.99,Active
+S00429,Joshua Hansen,Female,20,Arts,4,3.13,Active
+S00430,Matthew Ward,Male,24,Arts,2,2.7,Active
+S00431,Melissa Hardy,Male,23,Computer Science,2,3.81,Active
+S00432,Theodore Collins,Female,20,Computer Science,3,2.71,Active
+S00433,David Burke,Male,29,Science,2,2.91,Active
+S00434,Isaac Vance,Male,26,Computer Science,1,2.12,Active
+S00435,Tina Mercer,Male,25,Science,3,3.58,Active
+S00436,Sarah Maxwell,Female,21,Medicine,1,2.2,Active
+S00437,Timothy Johnson,Male,18,Law,3,3.92,Active
+S00438,Robert Ferguson,Female,25,Computer Science,1,2.12,Active
+S00439,April Singleton,Male,28,Engineering,4,1.86,Probation
+S00440,Steven Martinez,Male,23,Engineering,1,3.85,Active
+S00441,Alyssa Torres,Male,30,Science,1,2.57,Active
+S00442,Marvin Johnson,Male,18,Law,2,3.39,Active
+S00443,John Graham,Female,22,Science,1,3.5,Active
+S00444,Michael Cole,Female,25,Law,4,3.8,Active
+S00445,Jimmy Rubio,Female,24,Engineering,3,2.18,Active
+S00446,Matthew Wolf,Female,30,Science,4,1.93,Probation
+S00447,Autumn Ortega,Female,22,Science,2,1.8,Probation
+S00448,Joshua Martinez,Male,22,Computer Science,1,1.67,Probation
+S00449,Douglas Morgan,Female,23,Law,4,1.9,Probation
+S00450,Theresa Brown,Female,26,Science,4,3.22,Active
+S00451,Sarah Herman,Male,23,Science,4,3.92,Active
+S00452,Randy Wilkins,Male,26,Medicine,1,3.4,Active
+S00453,Jeffrey Young,Female,29,Science,1,1.58,Probation
+S00454,Jean Mitchell,Female,19,Medicine,4,2.27,Active
+S00455,Wanda Cooke,Male,25,Law,4,2.68,Active
+S00456,Albert Rios,Male,30,Computer Science,4,3.23,Active
+S00457,Justin Collier,Female,27,Business,3,1.67,Probation
+S00458,Tiffany Walters,Male,25,Science,4,3.03,Active
+S00459,Natasha Wells,Female,22,Law,2,3.57,Active
+S00460,Lisa Mitchell,Male,22,Computer Science,1,3.43,Active
+S00461,Alyssa Berger,Female,30,Science,2,2.57,Active
+S00462,Cindy Cummings,Female,29,Law,1,2.48,Active
+S00463,Ashley Dougherty,Male,21,Engineering,1,3.13,Active
+S00464,Steven Rivera,Female,23,Business,4,1.69,Probation
+S00465,Scott Sandoval,Female,20,Computer Science,4,2.51,Active
+S00466,Seth Jenkins,Female,24,Law,1,3.24,Active
+S00467,Annette Hale,Male,28,Science,3,3.68,Active
+S00468,Angelica Stevenson,Female,24,Medicine,1,3.75,Active
+S00469,Veronica Walker,Female,25,Law,3,1.68,Probation
+S00470,Norma Thomas,Male,25,Computer Science,1,2.36,Active
+S00471,Elizabeth Evans DVM,Male,28,Business,2,1.79,Probation
+S00472,Dustin Rodriguez,Female,25,Medicine,1,2.66,Active
+S00473,Tammy Jennings,Female,18,Computer Science,1,1.98,Probation
+S00474,David Swanson,Female,30,Arts,3,3.68,Active
+S00475,Ryan Jackson,Male,22,Arts,4,2.38,Active
+S00476,Patrick Flowers,Female,20,Computer Science,3,1.74,Probation
+S00477,Brian Moody,Male,24,Medicine,3,2.36,Active
+S00478,Kelly Lopez,Female,25,Business,4,3.38,Active
+S00479,David Whitaker,Male,19,Law,4,1.78,Probation
+S00480,Ryan Harper,Male,25,Computer Science,4,3.56,Active
+S00481,Matthew Park,Female,22,Business,2,2.6,Active
+S00482,Eric Braun,Male,29,Engineering,2,1.91,Probation
+S00483,Cindy Phillips,Female,30,Arts,4,3.98,Active
+S00484,Mr. Joseph Garcia,Male,22,Medicine,1,1.87,Probation
+S00485,Ricky Solomon,Female,21,Engineering,1,2.73,Active
+S00486,Beverly Sawyer,Female,23,Computer Science,1,1.73,Probation
+S00487,Kathleen Buck,Male,20,Engineering,2,3.44,Active
+S00488,Benjamin Huffman,Female,26,Engineering,3,3.44,Active
+S00489,Lisa Hampton,Male,26,Computer Science,1,2.25,Active
+S00490,Gregory Brown,Female,30,Engineering,4,2.31,Active
+S00491,Brooke Vincent,Female,25,Law,2,3.16,Active
+S00492,Mrs. Elizabeth Banks,Male,27,Medicine,4,2.23,Active
+S00493,Brian Richmond,Male,19,Business,2,2.01,Active
+S00494,Cindy Vega,Female,20,Business,3,1.85,Probation
+S00495,James May,Male,24,Arts,3,2.7,Active
+S00496,Joseph Acosta,Female,26,Arts,2,3.78,Active
+S00497,Steven Montgomery,Male,18,Law,1,1.91,Probation
+S00498,Brittany Turner,Female,20,Computer Science,2,3.14,Active
+S00499,Sherry Flores,Male,19,Business,1,1.53,Probation
+S00500,Olivia Maxwell,Male,27,Law,2,3.08,Active
+S00501,Jeremy Nash,Male,23,Science,4,3.95,Active
+S00502,Christopher Reeves,Female,20,Business,3,3.35,Active
+S00503,David Jackson,Male,25,Business,1,3.34,Active
+S00504,Sheila Davis,Female,22,Arts,1,2.51,Active
+S00505,Charles Wilson,Female,26,Computer Science,4,3.14,Active
+S00506,Ms. Kimberly Hunter,Female,28,Engineering,1,3.44,Active
+S00507,Amanda Martinez,Male,21,Arts,3,2.06,Active
+S00508,Christine Espinoza,Female,26,Engineering,3,2.65,Active
+S00509,Vanessa Cook,Male,18,Medicine,1,2.05,Active
+S00510,Barbara Braun,Male,28,Law,3,3.8,Active
+S00511,Brenda Boyd,Male,30,Medicine,2,2.74,Active
+S00512,Kristen Jones,Female,24,Law,1,2.23,Active
+S00513,Robert Johnson,Female,28,Computer Science,3,3.53,Active
+S00514,Gregory Alvarado,Male,30,Engineering,4,1.74,Probation
+S00515,Julie Townsend,Female,25,Law,2,3.78,Active
+S00516,James Rivers,Female,20,Arts,3,1.67,Probation
+S00517,Katherine Long,Female,18,Business,1,3.43,Active
+S00518,Jennifer Hale,Male,18,Law,1,3.66,Active
+S00519,Robert Kramer,Female,29,Arts,1,2.86,Active
+S00520,Mr. Benjamin Gonzalez,Female,24,Arts,3,1.93,Probation
+S00521,Jose Nguyen,Female,26,Science,2,3.24,Active
+S00522,Beverly Davis,Female,19,Business,1,2.54,Active
+S00523,John Goodwin,Female,27,Computer Science,3,1.96,Probation
+S00524,Laura Mason,Male,22,Business,3,3.09,Active
+S00525,Raymond Wilson,Female,21,Medicine,1,3.85,Active
+S00526,Timothy Gonzalez,Female,24,Arts,2,3.43,Active
+S00527,Stephanie Rogers,Female,28,Arts,2,3.29,Active
+S00528,John Schmidt,Male,26,Computer Science,4,3.21,Active
+S00529,Richard Wallace,Female,20,Medicine,1,3.15,Active
+S00530,Jamie Sparks,Female,23,Engineering,1,2.14,Active
+S00531,Logan Jones,Male,27,Medicine,2,1.61,Probation
+S00532,Tina Alvarez,Male,20,Law,4,2.76,Active
+S00533,Kelly Miranda,Female,20,Medicine,1,2.61,Active
+S00534,Heather Colon,Female,28,Science,4,2.09,Active
+S00535,Kristi Atkinson,Male,22,Arts,1,2.43,Active
+S00536,Michael Perez,Female,18,Arts,4,3.92,Active
+S00537,Roger Jimenez,Female,22,Law,2,3.55,Active
+S00538,Anna Watson,Male,21,Law,1,3.02,Active
+S00539,Courtney Sanchez,Female,20,Medicine,3,1.53,Probation
+S00540,Emily Page,Female,22,Arts,3,3.04,Active
+S00541,Erik Williams,Male,29,Computer Science,3,3.19,Active
+S00542,Justin Adams,Male,27,Engineering,3,3.58,Active
+S00543,Joseph Wright,Female,24,Arts,3,2.08,Active
+S00544,Jonathan Hoffman,Male,30,Law,1,1.78,Probation
+S00545,Claire Lewis DVM,Female,21,Law,1,2.35,Active
+S00546,Brooke Dawson,Female,18,Medicine,2,3.71,Active
+S00547,Amy Velez,Male,22,Computer Science,3,3.21,Active
+S00548,Kim Anderson,Female,19,Arts,1,2.08,Active
+S00549,Michael Jones,Male,21,Business,1,1.59,Probation
+S00550,Jermaine Gentry,Male,28,Arts,1,3.17,Active
+S00551,Natalie Brown,Female,29,Science,3,3.16,Active
+S00552,Amber Myers,Male,23,Medicine,4,1.74,Probation
+S00553,Nicole Harding,Female,29,Arts,2,2.04,Active
+S00554,Sherri Christensen,Male,23,Engineering,3,2.74,Active
+S00555,Nicholas Garner,Male,18,Arts,4,3.69,Active
+S00556,Alicia Stokes,Male,24,Arts,4,3.64,Active
+S00557,Sandra Cook,Female,24,Business,2,2.92,Active
+S00558,Angel Harris,Female,29,Arts,1,3.89,Active
+S00559,Michael Williams,Female,27,Computer Science,2,3.67,Active
+S00560,Evelyn Vazquez,Female,21,Computer Science,1,1.56,Probation
+S00561,Eric Tucker,Female,20,Science,4,3.18,Active
+S00562,Jessica Graham,Female,30,Science,2,2.51,Active
+S00563,Jeremy Lee,Female,28,Business,2,2.42,Active
+S00564,Jacqueline Krause,Female,22,Arts,1,2.26,Active
+S00565,Wendy Adams,Male,28,Business,4,3.25,Active
+S00566,Amanda Perry,Male,23,Engineering,2,2.92,Active
+S00567,Steven Tate,Male,24,Law,3,2.87,Active
+S00568,Shawn Chase,Female,22,Law,4,3.76,Active
+S00569,Heather Garza,Male,21,Engineering,1,2.75,Active
+S00570,Albert Ortiz,Male,29,Engineering,4,3.92,Active
+S00571,Scott Weeks,Male,29,Business,4,3.58,Active
+S00572,Jeffrey White,Male,26,Engineering,3,3.76,Active
+S00573,Beth Garcia,Female,19,Medicine,4,3.04,Active
+S00574,Steven Mills,Female,26,Business,2,1.5,Probation
+S00575,Jessica Lynn,Female,29,Science,1,1.8,Probation
+S00576,Nicole Wright,Male,24,Science,3,3.86,Active
+S00577,Gregory Fisher,Male,24,Law,3,3.06,Active
+S00578,Tami Crawford,Male,25,Computer Science,1,2.93,Active
+S00579,Joshua Russell,Female,23,Computer Science,3,3.75,Active
+S00580,John Lindsey,Male,21,Computer Science,3,2.34,Active
+S00581,Jennifer Rose,Female,30,Medicine,4,3.73,Active
+S00582,Nicole Wright,Female,18,Law,3,2.9,Active
+S00583,David Davis,Female,23,Arts,4,3.44,Active
+S00584,Mark Cox,Male,29,Computer Science,1,3.32,Active
+S00585,Gregory Griffin,Male,21,Medicine,4,2.34,Active
+S00586,Christopher Mcpherson,Female,18,Computer Science,1,2.75,Active
+S00587,Megan Smith,Female,24,Engineering,1,2.53,Active
+S00588,Jared Campbell,Female,27,Science,2,2.97,Active
+S00589,David Fisher,Female,24,Science,1,2.93,Active
+S00590,Erin Thomas,Female,22,Science,1,1.64,Probation
+S00591,Jeffrey Sanchez,Female,26,Engineering,3,2.68,Active
+S00592,Denise Brown,Male,23,Computer Science,3,2.08,Active
+S00593,William Hampton,Female,23,Law,2,3.89,Active
+S00594,Carol Snow,Female,29,Science,2,2.94,Active
+S00595,Mark Benton,Male,21,Computer Science,1,3.06,Active
+S00596,Becky Roman,Male,24,Business,2,3.59,Active
+S00597,Jane Washington,Male,20,Engineering,2,1.64,Probation
+S00598,Jacqueline Howard,Female,20,Medicine,3,3.63,Active
+S00599,Scott Sanchez,Male,18,Engineering,3,2.58,Active
+S00600,Brandon Murphy,Female,30,Arts,1,1.61,Probation
+S00601,Edward Wood,Female,26,Law,4,3.37,Active
+S00602,Tanner Webb,Male,23,Science,3,2.64,Active
+S00603,Lindsey Molina,Male,25,Engineering,1,1.7,Probation
+S00604,Gregory Manning,Female,29,Business,3,3.0,Active
+S00605,Leslie Calhoun,Female,27,Law,1,3.47,Active
+S00606,Daniel Cochran,Female,25,Science,1,1.81,Probation
+S00607,Zachary Dudley,Female,19,Arts,2,1.59,Probation
+S00608,Cheryl Sullivan,Male,29,Science,2,3.09,Active
+S00609,Nicole Booker,Female,23,Engineering,1,2.06,Active
+S00610,Phillip Robinson,Male,27,Engineering,1,2.17,Active
+S00611,Brittany Jones,Male,28,Science,3,2.39,Active
+S00612,Anthony Shannon,Male,28,Science,4,2.13,Active
+S00613,Cathy Brooks,Female,22,Law,4,1.84,Probation
+S00614,David Flores,Female,25,Law,1,1.89,Probation
+S00615,Timothy Clarke,Female,30,Engineering,3,1.87,Probation
+S00616,Kyle Sanchez DDS,Male,19,Medicine,4,2.9,Active
+S00617,Martha Bond,Male,26,Arts,1,1.72,Probation
+S00618,Joshua Hunter,Male,28,Medicine,1,2.42,Active
+S00619,William Black,Female,30,Engineering,2,2.64,Active
+S00620,Kimberly Smith,Male,19,Business,2,1.95,Probation
+S00621,Chelsey Foley,Male,22,Arts,3,3.2,Active
+S00622,Thomas Howell,Male,26,Medicine,3,3.04,Active
+S00623,Michael Cortez,Female,21,Engineering,1,1.79,Probation
+S00624,Stacy Fields,Male,25,Business,3,3.21,Active
+S00625,Wendy Jensen,Male,26,Business,1,3.7,Active
+S00626,Alexander Farley,Female,26,Computer Science,3,2.21,Active
+S00627,Patricia Martin,Female,22,Engineering,3,3.57,Active
+S00628,Shannon Gilbert,Male,25,Science,3,2.02,Active
+S00629,Brian Perkins,Female,24,Arts,1,3.4,Active
+S00630,Christina Turner,Female,29,Computer Science,2,2.8,Active
+S00631,Carolyn Baker,Male,20,Arts,1,2.98,Active
+S00632,Dawn Evans,Female,22,Business,1,2.82,Active
+S00633,Samantha Luna,Male,22,Law,3,3.78,Active
+S00634,Ashley Brown,Male,27,Computer Science,2,1.87,Probation
+S00635,Carlos Wade,Male,30,Science,3,1.87,Probation
+S00636,Patricia Pope,Male,22,Engineering,3,3.59,Active
+S00637,Aaron Delgado,Male,30,Engineering,2,1.74,Probation
+S00638,Robert Heath,Male,29,Medicine,2,1.93,Probation
+S00639,Kenneth Johnson,Male,20,Business,1,2.88,Active
+S00640,Isaiah Mccoy,Female,22,Law,4,3.31,Active
+S00641,Larry Garcia,Male,27,Engineering,2,3.91,Active
+S00642,Elizabeth Brooks,Male,22,Computer Science,2,2.15,Active
+S00643,Alan Mcconnell,Male,22,Computer Science,1,3.58,Active
+S00644,Rebecca Adams,Female,23,Science,4,3.88,Active
+S00645,Brian Mendez,Female,28,Computer Science,3,1.63,Probation
+S00646,Robin Lara,Male,29,Engineering,2,2.47,Active
+S00647,Kevin Hunt,Male,29,Business,3,1.53,Probation
+S00648,Jeffrey Wolfe,Female,24,Arts,3,1.53,Probation
+S00649,Kristin Jenkins,Male,20,Medicine,4,2.34,Active
+S00650,Virginia Payne,Male,21,Medicine,3,3.59,Active
+S00651,Melissa Jones,Female,30,Arts,3,2.06,Active
+S00652,Lori Petersen,Female,20,Business,3,2.66,Active
+S00653,William Ingram,Male,25,Engineering,4,3.46,Active
+S00654,Sandra Reyes,Male,26,Business,1,3.12,Active
+S00655,Michael Farley,Male,24,Business,1,3.66,Active
+S00656,Sherri Sanders,Male,20,Medicine,4,3.92,Active
+S00657,Dorothy Fernandez,Female,22,Engineering,2,3.47,Active
+S00658,Ashley Miller,Female,22,Engineering,4,3.17,Active
+S00659,Alejandro Miller,Female,30,Computer Science,4,3.1,Active
+S00660,Jennifer Delgado,Male,30,Engineering,2,1.96,Probation
+S00661,Jenna Lindsey,Female,18,Arts,1,1.97,Probation
+S00662,Jennifer Daniels,Female,19,Medicine,1,3.8,Active
+S00663,Maria Adams,Female,25,Arts,3,3.06,Active
+S00664,Michelle Weeks,Male,29,Computer Science,3,2.25,Active
+S00665,Crystal Ayala,Female,20,Medicine,1,1.88,Probation
+S00666,Lisa Moyer,Female,24,Computer Science,1,3.52,Active
+S00667,Jennifer Peterson,Female,30,Computer Science,2,2.44,Active
+S00668,James Wilson,Female,20,Law,4,2.49,Active
+S00669,Travis Stone,Male,29,Computer Science,2,1.63,Probation
+S00670,Ryan Morrow,Female,30,Arts,3,1.84,Probation
+S00671,Stephen Ayala,Male,19,Science,1,1.92,Probation
+S00672,Jennifer Schmidt,Female,26,Engineering,2,3.06,Active
+S00673,Richard Roy,Male,19,Business,3,2.77,Active
+S00674,Sophia Wells,Male,23,Law,2,2.93,Active
+S00675,Anthony Michael,Female,21,Business,2,2.4,Active
+S00676,Michael Smith,Female,19,Arts,4,1.53,Probation
+S00677,Bobby Parker,Male,18,Law,2,1.76,Probation
+S00678,Ralph Ortiz,Female,22,Engineering,2,3.94,Active
+S00679,Nicole Carroll,Female,21,Medicine,3,3.08,Active
+S00680,Jeffrey Estes,Male,19,Computer Science,1,3.78,Active
+S00681,Daniel Jacobs,Female,26,Medicine,4,1.58,Probation
+S00682,Autumn Luna,Male,25,Law,4,1.57,Probation
+S00683,Robert Jones,Male,24,Medicine,4,3.8,Active
+S00684,Eric Johnston,Male,25,Science,3,1.76,Probation
+S00685,Dr. Aaron Rivera,Female,20,Science,1,2.98,Active
+S00686,Matthew Howard,Female,27,Engineering,3,2.98,Active
+S00687,Robert Robinson,Male,29,Computer Science,1,2.28,Active
+S00688,Jaclyn Fowler,Female,18,Engineering,4,3.3,Active
+S00689,Stephen Owen,Male,22,Engineering,1,1.89,Probation
+S00690,Pamela Brandt,Male,22,Science,3,3.13,Active
+S00691,Doris Jefferson,Female,29,Science,2,2.29,Active
+S00692,James Wilson,Female,24,Computer Science,4,2.95,Active
+S00693,Michael Hayes,Female,19,Business,4,3.92,Active
+S00694,Justin Crawford,Female,26,Arts,3,1.63,Probation
+S00695,Rita Barry,Male,21,Computer Science,4,2.07,Active
+S00696,Brian Bryant,Female,21,Arts,1,2.85,Active
+S00697,Sean Monroe,Female,25,Business,1,3.26,Active
+S00698,Norman Estes,Male,28,Science,1,2.19,Active
+S00699,Lauren Roberts,Male,21,Engineering,4,1.92,Probation
+S00700,John Johnson,Male,19,Computer Science,3,1.61,Probation
+S00701,Alison Hernandez,Male,20,Engineering,1,2.67,Active
+S00702,Nancy Klein,Female,26,Science,4,1.65,Probation
+S00703,Jerry Stokes,Male,21,Medicine,3,2.51,Active
+S00704,Jared Todd,Male,23,Business,4,2.9,Active
+S00705,Elizabeth Duncan,Male,19,Business,2,3.24,Active
+S00706,Brian Johnson,Male,20,Medicine,4,2.97,Active
+S00707,Joseph Jones,Male,25,Arts,1,3.44,Active
+S00708,Katherine Ellis,Female,30,Business,3,3.74,Active
+S00709,Walter Smith,Female,18,Law,3,1.78,Probation
+S00710,Ryan Rice,Female,22,Computer Science,3,2.62,Active
+S00711,Kelli Drake,Male,23,Science,2,2.59,Active
+S00712,Andrew Wong,Male,29,Law,4,2.26,Active
+S00713,Jacqueline Shaw,Male,18,Science,3,2.19,Active
+S00714,Ann Romero,Male,18,Science,4,2.85,Active
+S00715,Erica Garrison,Female,28,Science,4,1.79,Probation
+S00716,Alexis Morrison,Male,29,Science,4,1.96,Probation
+S00717,Timothy Scott,Female,26,Medicine,4,1.83,Probation
+S00718,Tonya Klein,Male,21,Medicine,1,2.82,Active
+S00719,Jill Rivers,Female,25,Law,2,2.72,Active
+S00720,Alan Malone,Female,23,Arts,1,3.46,Active
+S00721,Cindy Thomas,Male,19,Law,2,2.93,Active
+S00722,Jessica Montoya,Male,19,Computer Science,4,2.62,Active
+S00723,John Hernandez,Male,26,Law,1,3.4,Active
+S00724,Noah Turner,Female,21,Medicine,3,2.0,Active
+S00725,Kathy Jones,Female,26,Engineering,3,2.9,Active
+S00726,Julie Perez,Male,28,Computer Science,4,2.31,Active
+S00727,Linda White,Female,30,Medicine,2,2.86,Active
+S00728,Dwayne Davis,Female,18,Science,1,1.54,Probation
+S00729,Christopher Campos,Female,23,Engineering,4,3.53,Active
+S00730,Julia Jensen,Female,26,Business,3,3.56,Active
+S00731,Frederick Parrish,Female,25,Medicine,2,2.08,Active
+S00732,Cassie Thompson,Female,30,Computer Science,4,2.97,Active
+S00733,Emily Robinson,Male,27,Science,4,1.67,Probation
+S00734,Michele Tucker,Female,29,Law,4,2.85,Active
+S00735,Veronica Johnson,Female,27,Engineering,3,2.72,Active
+S00736,Gabrielle Marshall,Male,19,Arts,4,2.52,Active
+S00737,Dr. Caitlin Benjamin,Female,26,Engineering,1,2.56,Active
+S00738,Rebecca Doyle,Male,19,Computer Science,4,1.69,Probation
+S00739,Olivia Brown,Male,30,Law,1,3.82,Active
+S00740,Catherine Collins,Male,25,Engineering,3,2.63,Active
+S00741,Ashlee Smith,Male,21,Law,4,1.98,Probation
+S00742,Jamie Davis,Male,28,Computer Science,2,2.55,Active
+S00743,Cheryl Smith,Male,22,Medicine,4,3.41,Active
+S00744,April Park,Male,24,Arts,1,2.19,Active
+S00745,Lynn Moore,Female,29,Engineering,4,2.01,Active
+S00746,James Davidson,Male,20,Business,2,3.11,Active
+S00747,Elizabeth Johnson,Female,28,Business,2,2.92,Active
+S00748,Julie Crawford,Female,21,Medicine,4,1.66,Probation
+S00749,Nicholas Davis,Female,24,Computer Science,1,3.78,Active
+S00750,Brandy Burton,Female,21,Science,4,3.28,Active
+S00751,Hannah Mckay DDS,Female,27,Law,2,2.97,Active
+S00752,Erin Gomez,Male,18,Computer Science,4,2.35,Active
+S00753,Savannah Bradley,Female,27,Medicine,3,2.82,Active
+S00754,Pamela Ruiz,Female,23,Medicine,3,2.24,Active
+S00755,Jesse Smith,Male,25,Medicine,2,1.75,Probation
+S00756,Brian Jones,Female,21,Computer Science,4,1.98,Probation
+S00757,Nathaniel Ford,Male,22,Computer Science,2,3.53,Active
+S00758,Andrea Gray DDS,Male,21,Science,3,1.98,Probation
+S00759,Katelyn White,Female,25,Business,2,1.86,Probation
+S00760,Alice Ward,Male,23,Engineering,4,1.68,Probation
+S00761,Michael Evans,Female,25,Science,1,3.81,Active
+S00762,Lawrence Clark,Male,27,Business,2,3.35,Active
+S00763,Maria Frank,Male,29,Business,4,1.63,Probation
+S00764,Denise Jackson,Female,28,Science,3,3.0,Active
+S00765,Susan Lowery,Female,22,Science,1,3.9,Active
+S00766,Brittany Snyder,Female,22,Medicine,3,3.43,Active
+S00767,Thomas Miller,Female,22,Science,3,2.67,Active
+S00768,Rodney Reynolds,Male,18,Law,4,2.13,Active
+S00769,Scott Evans,Male,28,Business,4,2.54,Active
+S00770,Dr. John Wright,Male,22,Medicine,2,1.71,Probation
+S00771,Diane Campbell,Male,24,Engineering,3,2.85,Active
+S00772,Alexander Fowler,Female,24,Medicine,1,2.88,Active
+S00773,Christina Savage,Female,23,Computer Science,4,3.96,Active
+S00774,Kristina Wheeler,Female,19,Arts,4,3.27,Active
+S00775,Colin Wright,Male,18,Science,2,2.15,Active
+S00776,Sherri Adams DDS,Female,27,Engineering,1,2.7,Active
+S00777,Sarah Flores,Male,27,Computer Science,2,2.14,Active
+S00778,Linda Stewart,Male,20,Science,4,3.57,Active
+S00779,William Hall,Male,18,Science,2,2.36,Active
+S00780,Diane Mcmahon,Female,27,Computer Science,2,3.31,Active
+S00781,Michael Miller,Female,28,Science,4,1.73,Probation
+S00782,Dominic Baker,Male,20,Law,1,2.73,Active
+S00783,William Kelley,Female,24,Science,3,2.77,Active
+S00784,John Martin,Male,29,Science,1,1.71,Probation
+S00785,Amber Burnett,Male,23,Law,2,2.66,Active
+S00786,Jason Swanson,Female,20,Science,4,2.86,Active
+S00787,Nicholas Novak,Male,25,Medicine,2,2.34,Active
+S00788,Robert Walters,Male,21,Science,4,2.63,Active
+S00789,Travis Webb,Female,28,Business,1,2.19,Active
+S00790,Vincent Myers,Female,25,Arts,1,3.94,Active
+S00791,Nicole Norton,Female,24,Engineering,3,3.81,Active
+S00792,Michael Medina,Female,24,Science,4,2.55,Active
+S00793,Ashley Sanchez,Male,18,Engineering,3,1.85,Probation
+S00794,Kevin Williams,Female,25,Computer Science,3,3.13,Active
+S00795,Megan Garcia,Male,27,Medicine,3,2.41,Active
+S00796,Mark Macdonald,Female,23,Business,4,3.28,Active
+S00797,Edgar Hayes,Male,19,Arts,4,2.86,Active
+S00798,Nichole Hebert,Male,27,Engineering,4,3.0,Active
+S00799,David Barber,Male,27,Medicine,2,2.15,Active
+S00800,Mary Hahn,Female,20,Computer Science,4,2.03,Active
+S00801,Jonathan Lewis,Male,22,Computer Science,3,3.62,Active
+S00802,Sheena Velazquez,Female,24,Medicine,1,2.69,Active
+S00803,Ashley Peterson,Female,20,Arts,2,3.0,Active
+S00804,Nicholas Watts,Male,27,Computer Science,4,2.36,Active
+S00805,Christopher Fleming,Female,27,Business,4,3.85,Active
+S00806,Carl Sims,Male,20,Science,4,2.34,Active
+S00807,Amy Lara,Female,23,Medicine,2,2.0,Active
+S00808,Deborah Velez,Male,24,Science,3,3.07,Active
+S00809,Jonathan Flores,Female,23,Science,1,1.72,Probation
+S00810,John Sanchez,Female,22,Computer Science,1,1.9,Probation
+S00811,Joe Gonzalez,Female,29,Engineering,1,1.8,Probation
+S00812,Eric Lee,Male,23,Medicine,1,1.93,Probation
+S00813,Kevin Martin,Male,30,Science,3,1.5,Probation
+S00814,Jessica Gregory,Female,18,Science,2,2.57,Active
+S00815,David Jackson,Female,21,Science,3,2.88,Active
+S00816,Michael Young,Male,28,Arts,3,1.99,Probation
+S00817,Gordon Sims,Female,26,Law,3,2.9,Active
+S00818,Jordan Curtis,Female,29,Medicine,2,3.01,Active
+S00819,Joseph Meyers,Male,19,Computer Science,2,1.67,Probation
+S00820,Zachary Stephens,Female,30,Engineering,2,3.77,Active
+S00821,Elizabeth Gonzalez,Female,24,Medicine,3,2.5,Active
+S00822,Brittney York,Male,25,Engineering,3,2.22,Active
+S00823,Michael Cervantes,Male,22,Computer Science,1,2.49,Active
+S00824,Alicia Wallace,Female,28,Medicine,4,1.55,Probation
+S00825,Melissa Brooks,Female,24,Science,2,3.99,Active
+S00826,Larry Reid,Female,26,Medicine,4,1.82,Probation
+S00827,Scott Rodriguez,Male,28,Law,4,3.91,Active
+S00828,Charles Bates,Male,22,Medicine,2,1.58,Probation
+S00829,Monica Murphy DVM,Female,24,Business,3,3.02,Active
+S00830,David Gibson,Male,28,Arts,1,3.82,Active
+S00831,Juan Fuller,Male,29,Arts,1,1.67,Probation
+S00832,Walter Warner,Male,30,Computer Science,2,2.48,Active
+S00833,Michael Ross,Male,19,Engineering,4,3.08,Active
+S00834,Brian James,Male,28,Arts,2,3.33,Active
+S00835,Angel Davis,Male,29,Business,3,3.54,Active
+S00836,Mr. David Coleman,Male,24,Engineering,1,2.18,Active
+S00837,James Welch,Male,19,Engineering,2,2.96,Active
+S00838,Brooke Robles,Male,30,Arts,1,2.99,Active
+S00839,Devin Hansen,Male,27,Medicine,2,3.13,Active
+S00840,David Washington,Male,26,Law,2,1.88,Probation
+S00841,Russell Haley,Female,28,Business,3,3.24,Active
+S00842,Michele Mann,Female,23,Science,4,1.65,Probation
+S00843,Gina Crane,Female,23,Law,3,3.55,Active
+S00844,Mikayla Harmon DDS,Male,28,Law,3,2.0,Active
+S00845,Michael Carr,Male,28,Medicine,2,2.04,Active
+S00846,Crystal Mills,Female,25,Law,2,2.44,Active
+S00847,Angel Pierce,Male,18,Law,2,2.56,Active
+S00848,Bobby Morris,Female,20,Computer Science,1,2.43,Active
+S00849,Karen Grimes,Male,18,Law,2,3.06,Active
+S00850,Michael Gibson,Male,25,Computer Science,4,1.8,Probation
+S00851,Matthew Jones,Female,21,Engineering,1,3.78,Active
+S00852,Michael Roberts,Male,18,Science,1,2.95,Active
+S00853,Carrie Watson MD,Female,22,Law,1,2.38,Active
+S00854,Denise Robbins,Male,27,Computer Science,1,2.45,Active
+S00855,David Wall,Male,18,Engineering,4,3.51,Active
+S00856,Scott Hayes,Male,30,Medicine,2,1.86,Probation
+S00857,Dana Ramos,Male,25,Arts,1,3.88,Active
+S00858,Zachary Reed,Male,27,Arts,1,3.17,Active
+S00859,Joseph Lewis,Male,30,Law,3,3.16,Active
+S00860,Benjamin Anderson,Male,23,Computer Science,1,2.3,Active
+S00861,Ronald Morales,Male,25,Computer Science,2,3.27,Active
+S00862,Linda Hunt,Male,18,Computer Science,4,2.02,Active
+S00863,Roberto Clark,Female,23,Computer Science,4,2.51,Active
+S00864,Derek Clarke,Female,25,Law,4,3.78,Active
+S00865,Tony Jimenez,Male,30,Medicine,3,3.58,Active
+S00866,Craig Buchanan,Male,21,Computer Science,3,3.83,Active
+S00867,Stephanie Lee,Male,26,Engineering,4,2.62,Active
+S00868,Kristen Anderson,Male,19,Science,1,3.53,Active
+S00869,Peter Estrada,Female,20,Computer Science,4,1.72,Probation
+S00870,Christopher Patterson,Male,27,Arts,3,3.15,Active
+S00871,Jesus Andrade,Female,28,Computer Science,4,2.11,Active
+S00872,Grant Arnold,Male,20,Engineering,4,2.92,Active
+S00873,William Young,Male,26,Science,3,2.78,Active
+S00874,Brandi Smith MD,Female,30,Arts,3,1.72,Probation
+S00875,Brad Wells,Female,21,Engineering,1,3.62,Active
+S00876,Robin Torres,Male,18,Science,3,2.32,Active
+S00877,Matthew Hancock,Female,28,Arts,1,2.32,Active
+S00878,Frank Watkins,Male,24,Business,2,2.4,Active
+S00879,Michael White,Male,25,Medicine,3,2.44,Active
+S00880,James Cummings,Female,27,Medicine,4,2.62,Active
+S00881,Ashley Gilmore,Female,25,Engineering,1,2.16,Active
+S00882,Kelly Johnston,Male,29,Business,1,2.73,Active
+S00883,Tara Perez,Male,30,Business,4,3.19,Active
+S00884,Daniel Stone,Female,22,Business,4,2.84,Active
+S00885,Ashley Gonzalez,Female,24,Computer Science,3,2.44,Active
+S00886,Denise Gutierrez,Male,29,Arts,3,2.91,Active
+S00887,Michael Boyer,Male,28,Medicine,4,3.3,Active
+S00888,Leslie Green,Male,23,Science,3,1.87,Probation
+S00889,Christine Browning,Male,29,Medicine,1,3.5,Active
+S00890,Emily Mitchell,Male,18,Computer Science,1,3.72,Active
+S00891,Lisa Wilson,Female,23,Arts,3,2.24,Active
+S00892,Mark Graham,Female,20,Business,4,3.89,Active
+S00893,Sarah Gardner,Female,24,Science,1,1.96,Probation
+S00894,Melanie Campos,Female,20,Science,2,3.86,Active
+S00895,Martin Smith,Female,24,Business,3,2.08,Active
+S00896,Jasmin Guzman,Female,30,Business,2,3.44,Active
+S00897,Cynthia Thomas,Female,29,Engineering,3,3.73,Active
+S00898,Angel Parsons,Female,21,Medicine,2,3.28,Active
+S00899,Michael Martinez,Male,22,Law,2,2.62,Active
+S00900,Michelle Johnson,Female,28,Engineering,3,2.23,Active
+S00901,Robert Brown,Male,28,Computer Science,2,2.93,Active
+S00902,Stephanie Clark,Female,22,Business,4,2.83,Active
+S00903,Casey Frye,Female,25,Business,3,1.86,Probation
+S00904,Brandon Dixon,Male,26,Business,4,3.56,Active
+S00905,Christopher Jacobs,Male,30,Science,1,2.76,Active
+S00906,Carla Bright,Male,26,Science,2,2.16,Active
+S00907,Brandi Harper,Male,29,Business,2,1.73,Probation
+S00908,Sara Olson,Male,21,Medicine,4,2.27,Active
+S00909,Kaitlin Frye,Female,18,Law,1,3.96,Active
+S00910,Brandi Simpson,Female,29,Engineering,1,2.56,Active
+S00911,Ronald Wilson,Male,20,Business,1,2.89,Active
+S00912,Alice Farmer,Male,20,Engineering,2,2.15,Active
+S00913,David Fisher,Female,21,Computer Science,1,2.82,Active
+S00914,James Nguyen,Female,24,Medicine,2,2.47,Active
+S00915,John Martin,Male,30,Arts,4,1.56,Probation
+S00916,Ryan Jensen,Female,18,Computer Science,4,2.09,Active
+S00917,Dana Graham,Male,28,Science,3,3.32,Active
+S00918,Monique Chan,Male,29,Law,3,3.5,Active
+S00919,Michael Moore,Male,25,Medicine,3,1.53,Probation
+S00920,Heather Underwood,Male,21,Science,3,2.01,Active
+S00921,Daniel Hernandez,Female,19,Science,2,2.5,Active
+S00922,Michael Gilmore,Female,28,Arts,1,1.82,Probation
+S00923,Brian Lopez,Female,19,Law,1,3.76,Active
+S00924,Christopher Parrish,Female,27,Business,3,3.06,Active
+S00925,Jasmin Dean,Female,28,Arts,4,3.82,Active
+S00926,Sherry Evans,Female,26,Computer Science,2,3.29,Active
+S00927,Douglas West,Male,28,Medicine,1,1.83,Probation
+S00928,Miranda Ramirez,Male,30,Arts,2,3.13,Active
+S00929,Stephanie Kim,Female,28,Engineering,2,3.81,Active
+S00930,Kenneth Williams,Female,22,Arts,4,3.92,Active
+S00931,Jennifer Howard,Female,27,Computer Science,3,2.96,Active
+S00932,Susan Rodriguez,Female,25,Business,3,3.85,Active
+S00933,Donald Flores,Female,26,Engineering,1,2.96,Active
+S00934,Victoria Dickerson,Male,21,Science,4,3.09,Active
+S00935,Eric Huynh,Male,26,Engineering,3,1.54,Probation
+S00936,Heather Baxter,Male,29,Computer Science,4,3.28,Active
+S00937,Susan Elliott,Female,25,Business,2,1.97,Probation
+S00938,Angela Mcdaniel,Male,20,Medicine,1,2.18,Active
+S00939,Rachel Stewart,Male,26,Law,2,2.88,Active
+S00940,Gregory Castillo,Male,26,Medicine,4,2.23,Active
+S00941,Patrick Johnson,Male,21,Business,4,3.72,Active
+S00942,Troy Frost,Female,22,Law,3,3.26,Active
+S00943,Shawn Snyder,Female,22,Law,4,2.51,Active
+S00944,Eduardo Chavez,Male,19,Business,1,2.83,Active
+S00945,Erin Frost,Male,22,Computer Science,1,2.74,Active
+S00946,Carlos Lee,Female,21,Law,2,3.88,Active
+S00947,Justin Hill,Female,20,Law,3,1.64,Probation
+S00948,Thomas Garcia,Female,23,Law,2,2.12,Active
+S00949,Joy Green,Male,23,Arts,1,1.9,Probation
+S00950,Patrick Garcia,Male,19,Arts,3,1.78,Probation
+S00951,Jason Smith,Male,23,Arts,1,3.28,Active
+S00952,Andrea Woods,Male,22,Medicine,1,2.09,Active
+S00953,Ricardo Hernandez,Female,26,Arts,1,3.09,Active
+S00954,Lisa Nguyen,Female,23,Science,1,2.15,Active
+S00955,Michelle Powell,Male,21,Business,1,2.21,Active
+S00956,Justin King,Male,19,Medicine,4,3.5,Active
+S00957,Courtney Wallace,Male,22,Medicine,1,2.53,Active
+S00958,Donald Ramirez,Female,20,Computer Science,3,2.0,Active
+S00959,Dr. Theresa Meyer,Male,26,Arts,2,1.78,Probation
+S00960,Trevor Bender,Male,19,Law,3,1.98,Probation
+S00961,Brandon Gomez,Female,27,Computer Science,3,1.66,Probation
+S00962,Margaret Michael,Female,18,Business,1,2.92,Active
+S00963,Kenneth Sanders,Female,28,Business,1,2.24,Active
+S00964,Alexandra Hunter,Male,23,Arts,1,3.38,Active
+S00965,Jennifer Lynch,Female,27,Science,1,3.24,Active
+S00966,Michael Bridges,Female,21,Business,4,1.59,Probation
+S00967,Barbara Rivera,Male,22,Computer Science,2,1.63,Probation
+S00968,Larry Miller,Female,20,Business,1,3.53,Active
+S00969,Matthew Villegas,Male,22,Law,4,3.71,Active
+S00970,Kenneth Aguilar,Male,19,Computer Science,4,2.5,Active
+S00971,Alexis Owen,Male,27,Medicine,3,3.09,Active
+S00972,James Williamson,Female,28,Medicine,2,2.66,Active
+S00973,Logan Moon,Male,27,Arts,3,3.26,Active
+S00974,Jennifer Medina,Male,22,Computer Science,4,3.81,Active
+S00975,Eddie Cole,Female,23,Business,4,2.76,Active
+S00976,Andre Reid,Male,27,Engineering,1,1.69,Probation
+S00977,Matthew Burton,Female,21,Law,3,3.56,Active
+S00978,Mr. Jeffrey Vaughn,Male,18,Arts,3,2.22,Active
+S00979,Andrea Mckinney,Male,18,Law,3,1.8,Probation
+S00980,Linda Sandoval,Female,22,Science,4,1.96,Probation
+S00981,Donna Brown,Male,21,Business,2,1.56,Probation
+S00982,Richard Campbell,Female,26,Computer Science,4,1.74,Probation
+S00983,Alexandria Williamson,Female,22,Engineering,4,1.63,Probation
+S00984,Nicholas Knight,Female,22,Engineering,3,2.04,Active
+S00985,Paula Torres,Male,19,Engineering,1,2.15,Active
+S00986,Sarah Pena,Male,23,Computer Science,3,3.46,Active
+S00987,Ryan Patton DVM,Female,19,Science,3,1.77,Probation
+S00988,Molly Garcia,Female,26,Arts,2,3.68,Active
+S00989,Eileen Romero,Female,21,Computer Science,2,3.22,Active
+S00990,Amy Austin,Male,23,Business,4,3.72,Active
+S00991,William Nolan,Female,26,Engineering,3,3.64,Active
+S00992,Lisa Jenkins,Female,23,Business,3,1.88,Probation
+S00993,Judith Glenn,Male,26,Arts,3,3.3,Active
+S00994,Susan Huynh,Male,26,Engineering,3,1.8,Probation
+S00995,Allison Baker,Male,29,Business,3,2.44,Active
+S00996,Julie Espinoza,Female,23,Medicine,1,2.96,Active
+S00997,Kelli Hernandez,Female,30,Engineering,4,3.84,Active
+S00998,Jenna Williams,Male,24,Engineering,4,1.78,Probation
+S00999,Brett Stevenson,Male,26,Engineering,2,2.11,Active
+S01000,Melissa Myers,Male,22,Science,4,2.5,Active
+S01001,Robert Allen,Male,29,Arts,3,2.0,Active
+S01002,Marilyn Romero,Female,18,Business,3,3.35,Active
+S01003,Mr. Timothy Campos,Female,25,Arts,4,3.41,Active
+S01004,Janet Beasley,Male,28,Arts,1,2.2,Active
+S01005,Christopher Taylor,Male,23,Medicine,2,2.99,Active
+S01006,Jennifer Baker,Male,21,Medicine,1,2.08,Active
+S01007,Abigail Brown,Female,18,Arts,1,3.66,Active
+S01008,James Burns,Female,26,Business,1,2.55,Active
+S01009,Steven Macdonald,Female,30,Business,1,3.03,Active
+S01010,Jennifer Cook,Male,30,Law,4,1.77,Probation
+S01011,Nicholas Gibson,Female,30,Engineering,4,3.43,Active
+S01012,Kevin Williams,Female,26,Computer Science,4,3.65,Active
+S01013,Shane Holmes,Female,26,Arts,4,3.18,Active
+S01014,Brandi Holmes,Female,25,Business,2,1.84,Probation
+S01015,John Shields,Male,19,Computer Science,1,3.29,Active
+S01016,Wanda Williams,Female,24,Arts,1,1.61,Probation
+S01017,Sharon Carroll,Female,24,Science,3,2.45,Active
+S01018,Joseph Lawson,Male,26,Computer Science,1,1.98,Probation
+S01019,John Arnold,Female,29,Computer Science,2,2.72,Active
+S01020,Paige Castro,Female,18,Computer Science,2,3.77,Active
+S01021,Ashley Walters,Female,19,Medicine,4,2.62,Active
+S01022,Belinda Moore,Female,29,Medicine,3,2.93,Active
+S01023,Gabriel Mendez,Male,28,Computer Science,4,2.76,Active
+S01024,Rebecca Stanley,Female,20,Science,4,1.86,Probation
+S01025,Samantha Davis,Female,20,Business,3,1.6,Probation
+S01026,Lisa Wang,Female,19,Business,1,1.77,Probation
+S01027,Amber Hayes,Female,19,Medicine,3,3.22,Active
+S01028,Breanna Morrison,Male,29,Arts,3,3.51,Active
+S01029,Pamela Hawkins,Female,24,Engineering,2,2.27,Active
+S01030,Brooke Wilson,Female,19,Arts,1,3.27,Active
+S01031,Edward Dixon,Female,22,Business,3,3.85,Active
+S01032,Albert Miller,Male,25,Engineering,2,3.75,Active
+S01033,Michael Ayala,Male,19,Arts,4,3.26,Active
+S01034,Taylor Avery,Female,29,Computer Science,2,3.05,Active
+S01035,Edward Harper,Female,20,Computer Science,1,3.28,Active
+S01036,Reginald Miller,Male,25,Science,4,1.77,Probation
+S01037,Paul Jackson,Female,20,Arts,4,2.76,Active
+S01038,Heather Russo,Male,23,Engineering,3,3.31,Active
+S01039,Sarah White,Female,26,Arts,1,3.34,Active
+S01040,Gregory Sanchez,Male,24,Science,3,3.88,Active
+S01041,Brian Robinson,Female,23,Medicine,1,2.5,Active
+S01042,Rhonda Hogan,Female,20,Medicine,2,2.15,Active
+S01043,Stanley Lee,Female,19,Engineering,4,3.89,Active
+S01044,Justin Pena,Male,28,Science,3,2.95,Active
+S01045,Matthew Johnson,Female,21,Computer Science,2,3.37,Active
+S01046,Elizabeth Johnson,Male,22,Arts,1,3.37,Active
+S01047,Matthew Cooper DDS,Female,18,Business,3,3.28,Active
+S01048,Xavier Roberson,Male,28,Computer Science,4,1.92,Probation
+S01049,Karen Ramirez,Male,18,Engineering,1,2.83,Active
+S01050,Todd Finley,Male,20,Computer Science,4,2.65,Active
+S01051,Laurie Miller,Female,22,Engineering,4,2.07,Active
+S01052,Matthew Bright,Male,24,Medicine,1,2.21,Active
+S01053,Patrick Mejia,Male,27,Business,2,3.83,Active
+S01054,Teresa Acevedo,Male,22,Engineering,2,3.56,Active
+S01055,Natalie Bishop,Female,23,Computer Science,1,3.99,Active
+S01056,Michael Smith,Male,29,Engineering,1,1.74,Probation
+S01057,Tammy Wells,Male,21,Business,1,3.9,Active
+S01058,Elizabeth Powell,Male,29,Computer Science,1,3.15,Active
+S01059,Kimberly Brown,Male,24,Law,4,3.31,Active
+S01060,Sue Lee,Female,18,Business,2,2.26,Active
+S01061,Antonio Morgan,Male,24,Computer Science,3,3.64,Active
+S01062,Allison Osborne,Male,20,Engineering,2,3.4,Active
+S01063,Lindsey Tapia,Male,21,Science,3,3.52,Active
+S01064,Mark Ayala,Female,26,Science,4,2.96,Active
+S01065,Matthew Ford,Male,29,Arts,4,2.07,Active
+S01066,Aaron Williams,Male,22,Science,2,1.92,Probation
+S01067,Amy Suarez,Female,20,Business,4,3.51,Active
+S01068,Aaron Flynn,Male,26,Arts,3,3.72,Active
+S01069,Kevin Nelson,Male,20,Science,3,2.11,Active
+S01070,Carlos Nelson,Male,20,Engineering,3,3.51,Active
+S01071,Dr. Daryl Kelley PhD,Female,23,Medicine,2,2.71,Active
+S01072,Christopher Barker,Male,19,Medicine,4,1.67,Probation
+S01073,Peter Ross,Female,18,Arts,1,3.18,Active
+S01074,Charles West,Female,24,Arts,1,1.95,Probation
+S01075,Jennifer Smith,Male,20,Arts,2,2.99,Active
+S01076,Lindsay Martin,Female,23,Law,1,2.72,Active
+S01077,Julie Horton,Female,28,Business,2,3.57,Active
+S01078,Renee Curtis,Male,28,Arts,2,2.38,Active
+S01079,Lisa Kelly,Male,18,Computer Science,3,3.38,Active
+S01080,Brian Jones,Female,22,Arts,2,1.86,Probation
+S01081,Theresa Cohen,Male,27,Law,2,3.26,Active
+S01082,Joseph Drake,Female,22,Medicine,4,2.94,Active
+S01083,Phillip George,Female,25,Engineering,3,2.13,Active
+S01084,Chad Alexander,Female,20,Engineering,3,2.73,Active
+S01085,Danielle Adams,Female,26,Arts,1,3.02,Active
+S01086,Morgan Gibson,Female,26,Business,2,3.97,Active
+S01087,Danielle Gillespie DVM,Female,30,Law,3,2.65,Active
+S01088,Miranda West,Male,24,Business,2,1.52,Probation
+S01089,Travis Whitaker,Male,19,Medicine,2,2.91,Active
+S01090,Courtney Mahoney,Male,22,Business,4,2.94,Active
+S01091,Cody Nguyen,Male,21,Computer Science,1,1.53,Probation
+S01092,Derek Kelly,Female,30,Engineering,4,3.76,Active
+S01093,Robert Phillips,Male,20,Science,3,1.89,Probation
+S01094,Jessica Reeves,Female,24,Computer Science,4,3.88,Active
+S01095,Mark Walker,Male,27,Engineering,2,2.26,Active
+S01096,Courtney Andrews,Female,23,Law,2,3.2,Active
+S01097,Kara King,Male,26,Medicine,2,2.27,Active
+S01098,Allison Cooper,Female,23,Arts,4,3.44,Active
+S01099,Kristine Saunders,Male,22,Business,4,3.51,Active
+S01100,Thomas Tanner,Male,19,Medicine,4,2.97,Active
+S01101,Jessica Murphy,Female,27,Arts,1,3.25,Active
+S01102,Tricia Barnes,Male,18,Engineering,3,3.62,Active
+S01103,Lauren Nguyen,Female,25,Law,1,2.83,Active
+S01104,Kayla Stephens,Female,23,Medicine,1,3.57,Active
+S01105,Cheyenne Harris,Male,26,Engineering,4,2.32,Active
+S01106,Patrick Baldwin,Male,30,Medicine,1,1.6,Probation
+S01107,Cynthia Davenport,Female,29,Engineering,1,2.47,Active
+S01108,Brandon Torres,Male,27,Science,2,2.44,Active
+S01109,Ashley Drake,Male,27,Arts,1,1.69,Probation
+S01110,Joseph Hughes,Male,28,Science,3,3.76,Active
+S01111,Veronica Gray DDS,Female,22,Arts,1,2.01,Active
+S01112,Jeffrey Mayo,Male,25,Law,3,2.61,Active
+S01113,Michael Anderson,Male,20,Law,3,2.89,Active
+S01114,Tiffany Ford,Female,22,Law,4,2.54,Active
+S01115,Brian Pope,Male,30,Law,1,2.21,Active
+S01116,Emily Howell,Female,27,Business,3,3.48,Active
+S01117,Andrew Peck,Male,30,Science,1,3.01,Active
+S01118,Jeffery Moore,Female,26,Engineering,3,2.5,Active
+S01119,Katie Carter,Male,20,Law,3,2.42,Active
+S01120,Samantha Vance,Male,19,Law,2,3.16,Active
+S01121,Jeffery Ford,Female,20,Medicine,4,3.06,Active
+S01122,Richard Smith,Female,18,Science,1,3.33,Active
+S01123,Patrick Miller,Female,19,Engineering,3,2.39,Active
+S01124,Gloria Peters,Female,28,Computer Science,3,1.88,Probation
+S01125,Timothy Rice,Male,28,Medicine,4,2.6,Active
+S01126,Molly Jacobs,Male,27,Medicine,2,3.35,Active
+S01127,Martin Thompson,Female,21,Arts,3,2.7,Active
+S01128,Christy Reeves,Female,28,Medicine,3,2.45,Active
+S01129,Angela Harris,Female,27,Law,3,2.08,Active
+S01130,Matthew Weber,Female,28,Medicine,1,1.94,Probation
+S01131,Kevin Fitzpatrick,Male,26,Medicine,2,1.97,Probation
+S01132,Jeffrey Lee,Female,28,Law,1,2.71,Active
+S01133,John Gutierrez,Male,29,Engineering,2,3.72,Active
+S01134,Jonathan Brown,Male,28,Science,2,3.66,Active
+S01135,Jennifer Lucas,Male,24,Arts,1,2.83,Active
+S01136,George Washington,Female,20,Computer Science,4,1.72,Probation
+S01137,Scott Butler,Male,20,Business,4,2.98,Active
+S01138,Charles Davis,Female,19,Arts,1,2.72,Active
+S01139,Jeffrey Boyd,Male,25,Science,2,2.49,Active
+S01140,Cheyenne Roberts,Female,24,Law,1,2.95,Active
+S01141,Richard Osborn,Male,20,Engineering,1,2.78,Active
+S01142,David Wilson,Male,30,Computer Science,4,1.95,Probation
+S01143,Martha Reilly,Male,29,Medicine,1,2.69,Active
+S01144,Leslie Cisneros,Male,30,Business,4,3.75,Active
+S01145,Nicole Murray,Male,22,Business,3,2.49,Active
+S01146,Christopher Miller,Male,24,Arts,4,2.09,Active
+S01147,Lisa Miller,Female,21,Law,1,2.55,Active
+S01148,Theresa Gonzalez,Male,22,Science,2,3.04,Active
+S01149,Steven Bonilla,Female,19,Medicine,2,3.05,Active
+S01150,Joshua Parker,Female,23,Business,3,3.43,Active
+S01151,Jessica Clark,Female,22,Science,3,1.74,Probation
+S01152,Heather Pena,Female,20,Medicine,4,2.35,Active
+S01153,Rachel Reynolds,Male,18,Business,3,2.0,Active
+S01154,Heather Thompson,Male,18,Law,1,1.8,Probation
+S01155,Jessica Richardson,Female,19,Science,1,2.75,Active
+S01156,Philip Avila,Female,25,Arts,1,3.47,Active
+S01157,Lisa Hobbs,Male,26,Business,1,3.89,Active
+S01158,Kristi Ramirez,Female,24,Science,4,2.31,Active
+S01159,Steven Flores,Female,25,Medicine,1,3.07,Active
+S01160,Matthew Martinez,Female,24,Arts,2,2.28,Active
+S01161,Zachary Novak,Male,26,Medicine,2,2.57,Active
+S01162,Miss Sara Rogers MD,Male,22,Science,2,3.85,Active
+S01163,Justin Fox DDS,Male,20,Engineering,2,2.36,Active
+S01164,Charles Valenzuela,Female,25,Business,2,3.42,Active
+S01165,Dustin Lang,Male,24,Law,4,2.47,Active
+S01166,Michael Harrington,Male,22,Business,3,3.54,Active
+S01167,Tiffany Velez,Male,30,Law,3,3.33,Active
+S01168,Jesse Hanson,Male,22,Law,4,2.01,Active
+S01169,Tamara Pierce,Male,24,Law,3,2.81,Active
+S01170,Adam Erickson,Male,30,Science,1,2.64,Active
+S01171,John Washington,Female,24,Law,1,3.73,Active
+S01172,Donald Martinez,Female,19,Science,3,2.85,Active
+S01173,Michael Knight,Male,25,Engineering,2,2.89,Active
+S01174,Lauren Hill,Male,23,Business,1,3.72,Active
+S01175,Erica Morrison,Female,22,Medicine,4,3.55,Active
+S01176,Kristina Sexton,Female,28,Law,2,1.78,Probation
+S01177,Vincent James,Female,24,Medicine,2,2.99,Active
+S01178,Belinda Jones,Female,28,Science,2,1.51,Probation
+S01179,Thomas Ayala,Male,24,Science,1,3.19,Active
+S01180,Emily Burton,Male,22,Arts,3,3.86,Active
+S01181,Alyssa Briggs,Female,23,Computer Science,3,2.09,Active
+S01182,Ann Marshall,Male,28,Arts,2,2.65,Active
+S01183,Sarah Myers,Male,21,Engineering,1,3.73,Active
+S01184,Brenda Thompson,Female,19,Science,2,3.72,Active
+S01185,Brandon Andersen DVM,Male,22,Business,2,3.32,Active
+S01186,Daisy Brown MD,Female,28,Computer Science,4,2.85,Active
+S01187,Jonathan Chung,Male,29,Medicine,4,3.05,Active
+S01188,Joseph Ray DVM,Male,18,Medicine,3,2.6,Active
+S01189,Olivia Castro,Male,30,Medicine,2,1.62,Probation
+S01190,Mark Lawson,Female,30,Business,1,2.4,Active
+S01191,David Brock,Female,20,Engineering,2,2.07,Active
+S01192,Stephanie Williams,Male,22,Medicine,1,2.27,Active
+S01193,Carol Small,Female,29,Science,2,1.79,Probation
+S01194,David Gordon,Male,24,Computer Science,3,2.41,Active
+S01195,Melanie Mcpherson,Male,23,Science,1,3.77,Active
+S01196,Ashley Blair,Male,30,Science,3,2.4,Active
+S01197,Darrell Miller,Female,25,Computer Science,1,3.52,Active
+S01198,Chelsea Walker,Female,21,Engineering,1,3.39,Active
+S01199,Brittany Long,Male,21,Arts,1,2.28,Active
+S01200,Samantha Johnson,Male,22,Engineering,3,2.71,Active
+S01201,William Estrada,Male,18,Computer Science,3,2.11,Active
+S01202,Courtney Jones,Male,18,Science,4,2.44,Active
+S01203,Timothy Payne,Female,25,Arts,2,2.48,Active
+S01204,Ashley Thompson,Female,19,Science,4,2.38,Active
+S01205,Matthew Jordan,Female,25,Law,1,2.47,Active
+S01206,Melissa Bailey,Male,20,Medicine,4,2.24,Active
+S01207,Donna Taylor,Male,19,Engineering,2,2.8,Active
+S01208,Lisa Delacruz,Male,20,Computer Science,4,2.0,Active
+S01209,Olivia Juarez,Male,23,Computer Science,4,3.77,Active
+S01210,Steven Martin,Male,20,Computer Science,3,3.44,Active
+S01211,Lauren Herrera,Male,23,Medicine,3,3.73,Active
+S01212,Samantha Wiggins,Female,18,Engineering,3,1.65,Probation
+S01213,Jonathan Moran,Female,30,Medicine,3,2.64,Active
+S01214,Deborah Shannon,Female,27,Computer Science,1,2.42,Active
+S01215,Christopher Mills,Female,27,Computer Science,3,1.79,Probation
+S01216,Michelle Wagner,Female,27,Business,1,3.35,Active
+S01217,Tyrone Webb PhD,Female,23,Engineering,2,2.33,Active
+S01218,Jason Avila,Male,21,Medicine,4,2.82,Active
+S01219,Jeremy Monroe,Female,28,Science,4,1.52,Probation
+S01220,Emma Johnson,Female,18,Law,2,2.47,Active
+S01221,Keith Garcia,Male,28,Law,4,3.28,Active
+S01222,Carolyn Jones,Male,19,Business,3,1.69,Probation
+S01223,Kristi Silva,Female,27,Law,3,2.07,Active
+S01224,Maureen Hughes,Male,29,Computer Science,3,2.62,Active
+S01225,Erica Ortiz DDS,Female,24,Arts,4,1.74,Probation
+S01226,Susan Lynch,Female,18,Business,2,1.71,Probation
+S01227,Matthew Murillo,Male,29,Medicine,1,3.78,Active
+S01228,Charles Mcmillan,Female,25,Business,4,2.91,Active
+S01229,Tiffany Diaz,Male,23,Law,4,2.97,Active
+S01230,Kara Jones,Female,29,Computer Science,4,1.58,Probation
+S01231,John Bishop,Female,24,Computer Science,3,3.2,Active
+S01232,Richard Grant,Male,18,Arts,4,1.8,Probation
+S01233,Juan Perez,Female,28,Law,3,1.96,Probation
+S01234,Penny Guzman,Female,25,Medicine,2,1.93,Probation
+S01235,Pamela Michael,Male,26,Law,3,3.84,Active
+S01236,Thomas Scott,Male,20,Computer Science,1,3.44,Active
+S01237,Lori Jones,Female,23,Arts,3,2.28,Active
+S01238,Cody Higgins,Male,27,Medicine,1,1.91,Probation
+S01239,Stephen Campbell,Female,24,Computer Science,2,1.73,Probation
+S01240,Gregory Rios,Male,27,Business,3,3.39,Active
+S01241,Victor Pacheco MD,Male,19,Science,4,2.39,Active
+S01242,Dr. Meredith King,Female,26,Business,2,3.14,Active
+S01243,Miranda Lee,Female,28,Business,4,1.63,Probation
+S01244,Bradley Charles,Male,19,Law,3,2.22,Active
+S01245,Toni Smith,Female,21,Medicine,2,1.52,Probation
+S01246,Sierra Maxwell,Female,24,Science,2,2.88,Active
+S01247,James Wood,Female,30,Medicine,4,3.98,Active
+S01248,Samantha Reid,Female,21,Computer Science,1,3.89,Active
+S01249,Sara Stone,Female,18,Computer Science,1,3.68,Active
+S01250,Heather Robinson,Male,21,Science,3,1.58,Probation
+S01251,Steven Sanchez,Male,19,Law,1,3.0,Active
+S01252,Zachary May,Male,28,Computer Science,4,3.65,Active
+S01253,Jason Miller,Male,30,Computer Science,2,2.22,Active
+S01254,Cynthia Stanton,Male,20,Medicine,1,2.89,Active
+S01255,Adam Arias,Female,24,Medicine,2,3.4,Active
+S01256,Brianna Mclean,Male,26,Law,4,2.53,Active
+S01257,Roy Cameron,Female,24,Computer Science,2,2.98,Active
+S01258,Zoe Klein,Male,22,Business,4,2.31,Active
+S01259,Gary Harris,Female,20,Engineering,4,3.64,Active
+S01260,William Campbell,Male,27,Engineering,3,3.87,Active
+S01261,Jordan Kennedy,Female,23,Medicine,2,1.91,Probation
+S01262,Kimberly Morgan MD,Male,25,Law,4,3.55,Active
+S01263,Meghan King,Female,26,Engineering,2,1.83,Probation
+S01264,Barbara Frost MD,Female,20,Arts,4,2.85,Active
+S01265,Timothy Jones,Female,22,Engineering,2,2.72,Active
+S01266,Danielle Larsen,Female,26,Law,3,2.83,Active
+S01267,Martha Martin,Female,30,Medicine,3,2.66,Active
+S01268,James Farmer,Male,25,Medicine,2,2.94,Active
+S01269,Cody Sawyer,Female,20,Science,4,2.63,Active
+S01270,Melissa Ayers,Male,26,Business,3,2.17,Active
+S01271,Amanda Douglas,Male,26,Engineering,3,2.07,Active
+S01272,Rhonda Wright,Female,30,Engineering,1,3.85,Active
+S01273,Whitney David,Male,29,Arts,3,3.63,Active
+S01274,Nancy Sims,Male,30,Law,3,2.96,Active
+S01275,Julia Frank,Female,23,Computer Science,3,3.25,Active
+S01276,Julie Brown,Female,29,Science,4,3.74,Active
+S01277,Thomas Brooks,Male,29,Engineering,1,3.41,Active
+S01278,Erica Harrison,Female,24,Business,2,3.18,Active
+S01279,Thomas Russo,Female,30,Medicine,3,3.51,Active
+S01280,Kathleen Nguyen,Female,26,Computer Science,1,2.87,Active
+S01281,James Mora,Female,27,Medicine,2,3.15,Active
+S01282,Sydney Brown,Male,25,Arts,2,2.77,Active
+S01283,Karen Jackson,Female,29,Arts,1,2.84,Active
+S01284,Brian Monroe,Male,30,Arts,1,3.18,Active
+S01285,Tina Hines,Male,24,Medicine,1,3.11,Active
+S01286,Gabriel Mason,Male,28,Science,2,3.22,Active
+S01287,Thomas Henderson,Female,19,Computer Science,4,2.3,Active
+S01288,Heather Mcbride,Female,25,Law,3,2.19,Active
+S01289,Jo Martinez,Male,22,Business,3,2.5,Active
+S01290,Melinda Steele,Female,30,Business,1,3.16,Active
+S01291,Robert Aguilar,Female,23,Arts,4,3.03,Active
+S01292,Nathaniel Jensen,Male,24,Arts,2,1.64,Probation
+S01293,Steven Schmidt,Female,23,Science,4,1.9,Probation
+S01294,Kelly Young,Female,24,Business,3,2.89,Active
+S01295,James Cantrell,Female,23,Medicine,2,2.82,Active
+S01296,Maria Martinez,Male,22,Business,4,2.45,Active
+S01297,Kim Maldonado,Male,27,Engineering,2,2.85,Active
+S01298,Mark Martin,Male,21,Law,3,3.77,Active
+S01299,Brandon Frank,Female,23,Medicine,1,2.89,Active
+S01300,Sharon Deleon,Female,28,Law,3,2.05,Active
+S01301,Sheila Cowan,Male,18,Science,4,2.94,Active
+S01302,Kathryn Byrd,Female,19,Business,4,2.97,Active
+S01303,Whitney Shaffer,Male,28,Business,3,3.8,Active
+S01304,Linda Miranda,Male,19,Engineering,1,1.91,Probation
+S01305,Derrick Farmer,Male,30,Law,1,3.04,Active
+S01306,Steven Cummings,Female,23,Law,4,2.28,Active
+S01307,Heidi Black,Male,26,Law,1,2.19,Active
+S01308,Lisa Anderson,Female,19,Arts,4,1.81,Probation
+S01309,Michael Garrett,Male,29,Business,4,3.73,Active
+S01310,Dawn Johnson,Male,30,Engineering,3,3.86,Active
+S01311,Autumn Keith,Male,26,Medicine,1,2.0,Active
+S01312,Cory Cooper,Female,27,Arts,1,2.3,Active
+S01313,Larry Rivera,Male,21,Arts,4,3.82,Active
+S01314,Mary Drake,Female,27,Law,1,2.36,Active
+S01315,Jason Morris,Female,24,Law,2,3.22,Active
+S01316,Jessica Garcia,Male,22,Business,1,2.84,Active
+S01317,Jeffrey Walters,Male,26,Medicine,3,1.66,Probation
+S01318,Angela Ballard,Male,24,Law,4,2.91,Active
+S01319,Blake Kelly,Female,29,Business,3,2.77,Active
+S01320,Michele Jones,Female,28,Engineering,3,2.84,Active
+S01321,Matthew Estrada,Male,18,Science,1,3.09,Active
+S01322,Duane Rodriguez,Female,25,Law,3,2.35,Active
+S01323,Darlene Obrien,Female,27,Engineering,4,2.14,Active
+S01324,Christopher Newman,Male,18,Engineering,4,3.0,Active
+S01325,Janet Pena,Male,23,Engineering,2,2.29,Active
+S01326,Brandon Nelson,Female,30,Arts,2,1.71,Probation
+S01327,Edwin Sanders,Male,24,Arts,4,4.0,Active
+S01328,Thomas Bass,Female,24,Law,1,3.19,Active
+S01329,Mr. Anthony Wilson,Female,24,Computer Science,3,3.18,Active
+S01330,Jordan Mendoza,Male,26,Law,4,2.59,Active
+S01331,Katherine West,Female,18,Engineering,2,2.56,Active
+S01332,Jennifer Shelton,Female,25,Business,3,3.99,Active
+S01333,Amanda Johnson,Male,21,Engineering,1,2.84,Active
+S01334,Kyle Jenkins,Female,21,Arts,2,2.54,Active
+S01335,Jay Myers,Female,30,Computer Science,2,2.36,Active
+S01336,Christina Clay,Male,21,Law,1,3.22,Active
+S01337,Kenneth Hansen,Female,27,Engineering,1,3.11,Active
+S01338,Jennifer Park,Female,20,Computer Science,3,2.71,Active
+S01339,Louis Robinson,Male,19,Science,1,3.12,Active
+S01340,Ricardo Hoffman,Male,26,Science,4,3.79,Active
+S01341,John Ayala,Female,29,Arts,4,3.85,Active
+S01342,Nicholas Novak,Female,26,Medicine,1,1.55,Probation
+S01343,Benjamin Leach,Female,23,Science,3,1.56,Probation
+S01344,Ricky Rodriguez,Female,30,Science,3,3.95,Active
+S01345,John Smith,Female,23,Arts,2,2.81,Active
+S01346,Barbara Torres,Female,30,Arts,1,3.05,Active
+S01347,Drew Scott,Female,27,Law,2,1.69,Probation
+S01348,Anthony Howell,Female,23,Arts,4,2.4,Active
+S01349,Gerald Roberts,Female,23,Engineering,4,2.52,Active
+S01350,Deborah Green,Male,29,Medicine,3,2.95,Active
+S01351,Sarah Smith MD,Female,25,Computer Science,1,1.75,Probation
+S01352,Ashley Hodge,Female,29,Science,2,2.09,Active
+S01353,Brenda Harris,Male,25,Medicine,3,2.94,Active
+S01354,Ryan Roberts,Male,30,Computer Science,2,2.73,Active
+S01355,Andre Romero,Female,30,Engineering,4,2.83,Active
+S01356,Laura Richardson,Female,22,Medicine,3,1.99,Probation
+S01357,Danielle Moore,Male,18,Arts,2,3.18,Active
+S01358,Charles Owens,Male,26,Computer Science,2,2.63,Active
+S01359,Jared Carter,Female,22,Arts,2,1.89,Probation
+S01360,Briana Collins,Female,27,Computer Science,1,2.37,Active
+S01361,Aaron Patterson,Female,21,Business,1,2.31,Active
+S01362,Patricia Martinez,Male,24,Engineering,3,2.44,Active
+S01363,Stephen Bradshaw,Female,21,Engineering,4,2.52,Active
+S01364,Shari Griffin,Female,18,Law,1,2.24,Active
+S01365,Eric Campbell,Female,22,Medicine,3,3.94,Active
+S01366,Amy King,Male,22,Medicine,3,2.38,Active
+S01367,Tonya Ramirez,Male,30,Arts,3,2.81,Active
+S01368,Dr. James Fitzpatrick,Female,29,Law,4,2.91,Active
+S01369,Timothy George,Male,25,Law,3,2.52,Active
+S01370,Clayton Brown,Female,28,Science,1,1.89,Probation
+S01371,Connie Taylor,Male,18,Arts,3,3.61,Active
+S01372,Jeffrey Lee,Female,28,Computer Science,3,3.97,Active
+S01373,Erin Frank,Male,30,Arts,3,3.35,Active
+S01374,Nicholas Williams,Female,28,Science,2,3.39,Active
+S01375,Joseph Lloyd,Male,28,Engineering,3,1.61,Probation
+S01376,Nicholas Singleton,Male,18,Engineering,2,1.71,Probation
+S01377,Teresa Smith,Male,30,Science,1,2.68,Active
+S01378,Susan Becker,Male,19,Computer Science,1,3.73,Active
+S01379,Warren Owen,Male,26,Arts,3,3.14,Active
+S01380,Lori Castro,Female,23,Engineering,4,3.11,Active
+S01381,Nicholas Porter,Male,26,Science,4,1.72,Probation
+S01382,Nathaniel Walker,Male,27,Engineering,3,3.57,Active
+S01383,Ricardo Miller Jr.,Female,26,Engineering,3,2.43,Active
+S01384,Julie Kent,Male,19,Business,1,3.01,Active
+S01385,Angela Black,Male,26,Science,4,1.78,Probation
+S01386,Christopher Robbins,Male,20,Medicine,1,2.03,Active
+S01387,Alexandra Williams,Female,23,Engineering,2,1.83,Probation
+S01388,Elizabeth Garcia,Male,30,Medicine,2,3.61,Active
+S01389,Elizabeth Bennett,Female,19,Business,1,3.28,Active
+S01390,Nicholas Gilbert,Male,19,Engineering,4,1.85,Probation
+S01391,Erin Davis,Female,22,Engineering,4,1.79,Probation
+S01392,Caitlin Perry,Male,23,Medicine,2,1.98,Probation
+S01393,Karen Johnson,Female,21,Computer Science,4,2.77,Active
+S01394,Jessica Frazier,Male,27,Engineering,1,3.37,Active
+S01395,Tiffany Robinson,Female,21,Law,1,1.86,Probation
+S01396,Cassandra Turner,Male,29,Science,2,2.26,Active
+S01397,Joshua Gonzalez,Female,24,Arts,1,2.98,Active
+S01398,Troy Lee,Female,26,Business,4,2.24,Active
+S01399,Jennifer Anderson,Female,21,Computer Science,1,3.45,Active
+S01400,Laura Salazar,Female,18,Arts,1,1.94,Probation
+S01401,Brandon Cooper,Female,26,Computer Science,3,3.67,Active
+S01402,Chad Werner,Male,25,Engineering,2,1.82,Probation
+S01403,Drew Parks Jr.,Female,23,Computer Science,4,2.55,Active
+S01404,Travis Becker,Male,21,Law,3,3.59,Active
+S01405,Alexander Fuller,Female,29,Law,2,3.47,Active
+S01406,Heather Young,Male,28,Business,2,3.91,Active
+S01407,Dr. Jose Parks Jr.,Female,23,Computer Science,1,2.81,Active
+S01408,Ashley Strickland,Male,18,Business,2,2.56,Active
+S01409,Robert Webster,Male,22,Engineering,2,2.9,Active
+S01410,Jeffery Fox,Female,28,Medicine,2,1.77,Probation
+S01411,Elizabeth Wilson,Male,25,Engineering,2,2.01,Active
+S01412,Todd Hardy,Female,29,Arts,3,1.79,Probation
+S01413,Kelli Cain,Female,21,Computer Science,3,3.39,Active
+S01414,David Hernandez,Female,28,Business,4,3.33,Active
+S01415,Terrance Oliver,Male,24,Medicine,4,2.57,Active
+S01416,Edward Lopez,Male,27,Law,3,2.39,Active
+S01417,Victoria Hurley,Female,25,Arts,4,2.32,Active
+S01418,Robert Arroyo,Female,20,Business,4,2.56,Active
+S01419,Tony Tanner,Male,28,Law,3,1.52,Probation
+S01420,Mr. Calvin Johnson,Male,27,Engineering,2,2.12,Active
+S01421,Megan Mccoy,Male,19,Computer Science,2,3.07,Active
+S01422,Joshua Young,Male,21,Medicine,1,2.13,Active
+S01423,Seth Booth,Male,25,Medicine,3,3.0,Active
+S01424,Breanna Garrett,Male,21,Medicine,3,2.53,Active
+S01425,Linda Martin,Male,25,Arts,1,2.71,Active
+S01426,Stephanie Mathis,Female,19,Law,3,2.79,Active
+S01427,Daniel Harris,Female,26,Computer Science,4,3.12,Active
+S01428,Julia Smith,Male,27,Engineering,1,2.21,Active
+S01429,Michael Brown,Male,29,Engineering,4,2.3,Active
+S01430,Luke Benson,Male,19,Arts,2,2.52,Active
+S01431,Scott Lewis,Male,18,Law,3,3.56,Active
+S01432,Gary Cooper,Male,29,Law,4,2.58,Active
+S01433,Elizabeth Robinson,Female,22,Law,4,2.2,Active
+S01434,Tracy Murphy,Female,18,Engineering,1,3.29,Active
+S01435,Michael Ruiz,Female,19,Law,2,3.58,Active
+S01436,Karen George,Female,19,Law,4,1.57,Probation
+S01437,Chad Evans,Female,25,Arts,2,3.25,Active
+S01438,Pamela Wright,Female,21,Law,3,2.43,Active
+S01439,Tony Moore,Male,28,Arts,3,3.19,Active
+S01440,Mr. William Gallegos,Female,30,Law,3,2.64,Active
+S01441,Craig Garcia,Male,30,Computer Science,1,1.85,Probation
+S01442,James Schroeder II,Female,24,Computer Science,1,2.9,Active
+S01443,Corey Kennedy,Male,29,Law,1,2.36,Active
+S01444,Mark Thomas,Male,21,Engineering,3,3.32,Active
+S01445,Justin Ray,Male,19,Science,1,3.36,Active
+S01446,Katelyn Cox,Female,22,Science,4,3.21,Active
+S01447,Andrea Juarez,Female,22,Business,2,3.77,Active
+S01448,Tina Collins,Male,22,Science,1,3.84,Active
+S01449,Deborah Raymond,Female,18,Law,2,3.37,Active
+S01450,Katrina Bass,Male,29,Computer Science,4,2.78,Active
+S01451,Gregory Willis,Male,27,Arts,3,3.3,Active
+S01452,James Alexander,Male,22,Law,3,1.82,Probation
+S01453,Sheri Jackson,Female,21,Arts,1,2.2,Active
+S01454,Matthew Rodriguez,Male,25,Computer Science,1,3.62,Active
+S01455,Samantha Santos,Female,18,Computer Science,3,3.63,Active
+S01456,Kevin Bailey,Female,25,Law,3,2.69,Active
+S01457,Susan Short,Female,19,Business,1,3.75,Active
+S01458,Anthony Boyd,Male,29,Computer Science,4,2.15,Active
+S01459,Ronald Clark Jr.,Female,26,Science,3,2.6,Active
+S01460,Lisa Moore,Female,21,Science,2,3.83,Active
+S01461,William Jones,Male,25,Medicine,4,3.52,Active
+S01462,Jeremy Mcbride,Male,18,Computer Science,2,3.63,Active
+S01463,Jennifer Williams,Male,29,Business,3,1.9,Probation
+S01464,Alexander Davidson,Male,24,Arts,2,1.52,Probation
+S01465,Travis Robertson,Male,24,Medicine,1,3.14,Active
+S01466,Christopher Anderson,Male,25,Engineering,2,2.88,Active
+S01467,Nathan Thomas,Male,29,Business,1,2.49,Active
+S01468,Stacy Torres,Male,29,Medicine,1,2.37,Active
+S01469,Wendy Flores,Female,27,Business,3,3.31,Active
+S01470,Lisa Blankenship,Male,28,Computer Science,4,3.86,Active
+S01471,Teresa Johnson,Male,28,Engineering,3,3.84,Active
+S01472,Victor Lopez,Female,20,Medicine,3,3.52,Active
+S01473,Julie Martin,Male,19,Business,1,3.47,Active
+S01474,Danielle Kennedy,Male,22,Engineering,3,2.61,Active
+S01475,David Peterson,Male,30,Computer Science,3,1.84,Probation
+S01476,Tina King,Female,22,Arts,1,2.75,Active
+S01477,Lance Gilbert,Male,30,Law,1,2.24,Active
+S01478,Cole Johnson,Male,25,Medicine,2,1.81,Probation
+S01479,Victor Sanchez,Male,30,Computer Science,3,2.56,Active
+S01480,Robert Joyce,Male,22,Arts,1,2.46,Active
+S01481,Steven Delgado,Female,25,Medicine,3,2.04,Active
+S01482,Julie Woods,Female,19,Law,3,3.86,Active
+S01483,Charles Cooper,Male,27,Business,1,2.47,Active
+S01484,Brenda Brown,Female,24,Medicine,2,1.65,Probation
+S01485,Donna Sanders,Male,29,Science,3,3.85,Active
+S01486,Karla Hernandez,Male,29,Arts,3,2.82,Active
+S01487,Eric Giles,Male,24,Business,1,3.83,Active
+S01488,Jessica Fischer,Female,22,Engineering,1,3.21,Active
+S01489,Tracy Morris,Male,30,Business,2,3.99,Active
+S01490,Angela Brady,Male,23,Science,4,2.65,Active
+S01491,Brent Whitney,Female,30,Business,4,2.12,Active
+S01492,Kimberly Nielsen,Female,24,Computer Science,2,3.43,Active
+S01493,Jordan Williams,Female,18,Arts,3,3.38,Active
+S01494,Mary Fitzgerald,Male,29,Engineering,4,3.92,Active
+S01495,Robert Jones,Male,30,Business,1,2.22,Active
+S01496,Timothy Little,Female,19,Computer Science,3,3.24,Active
+S01497,Tina Brown,Female,26,Arts,1,3.92,Active
+S01498,Courtney Larson,Female,23,Arts,2,3.89,Active
+S01499,Brooke Stevens,Female,26,Law,2,3.75,Active
+S01500,James Cabrera,Male,23,Engineering,4,3.39,Active

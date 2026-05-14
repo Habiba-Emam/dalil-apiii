@@ -1,0 +1,16 @@
+Top GPA Student Report
+
+Student Name: Edwin Sanders
+Student ID: S01327
+Major: Arts
+gender: Male
+Year: 4
+
+GPA Information:
+Edwin Sanders has the highest GPA among all students in the dataset.
+His GPA is 4.00, which ranks him at the top of his batch.
+
+Additional Notes:
+- Edwin Sanders consistently performs well in all subjects.
+- His academic status is "Active" with no warnings or issues.
+- Based on available data, he is the highest-ranked student.
