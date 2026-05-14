@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+python-jose
+passlib
+python-multipart
+
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+
+faiss-cpu
+sentence-transformers
+pypdf
+pandas
